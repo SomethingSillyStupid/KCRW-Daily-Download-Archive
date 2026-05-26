@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T17:39:39.486Z",
+  "updatedAt": "2026-05-26T17:51:26.387Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
@@ -14,7 +14,7 @@
       "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/blarf-stars-without-ligh-447663/audio.mp3",
       "audioSourceVersion": "direct-cdn-v1",
       "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/blarf-stars-without-ligh-447663/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
-      "trimStartSeconds": 12
+      "trimStartSeconds": 0
     },
     {
       "id": "eddf0159773e",
@@ -27,7 +27,7 @@
       "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/maisy-owen-on-my-way-dow-ec84b2/audio.mp3",
       "audioSourceVersion": "direct-cdn-v1",
       "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/maisy-owen-on-my-way-dow-ec84b2/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
-      "trimStartSeconds": 12
+      "trimStartSeconds": 0
     }
   ]
 }
