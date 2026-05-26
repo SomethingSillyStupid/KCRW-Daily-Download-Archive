@@ -1,0 +1,39 @@
+name: Update KCRW library
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 14 * * 1-5"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Update track library
+        run: npm run update
+        env:
+          ARCHIVE_AUDIO: "true"
+      - name: Commit updated library
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update KCRW track library"
+          file_pattern: docs/data/tracks.json docs/tracks
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4

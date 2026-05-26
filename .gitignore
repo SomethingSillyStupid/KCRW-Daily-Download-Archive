@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+docs/tracks/*.tmp
+docs/tracks/*.part

@@ -1,0 +1,10 @@
+{
+  "name": "kcrw-daily-download",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-kcrw.mjs",
+    "serve": "python3 -m http.server 4173 --directory docs"
+  }
+}
