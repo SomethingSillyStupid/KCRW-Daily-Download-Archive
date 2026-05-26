@@ -13,6 +13,7 @@ const FEED_URL = "https://feed.cdnstream1.com/zjb/feed/download/0c/01/c0/0c01c01
 const ARCHIVE_AUDIO = process.env.ARCHIVE_AUDIO !== "false";
 const MAX_TRACKS = Number(process.env.MAX_TRACKS || 90);
 const PROMO_TRIM_SECONDS = Number(process.env.PROMO_TRIM_SECONDS || 12);
+const AUDIO_SOURCE_VERSION = "direct-cdn-v1";
 
 const decodeEntities = (value = "") => value
   .replace(/<!\[CDATA\[(.*?)\]\]>/gs, "$1")
@@ -53,6 +54,16 @@ const titleParts = (rawTitle) => {
   return { artist: split[1].trim(), title: split[2].trim() };
 };
 
+const directAudioUrlFor = (audioUrl) => {
+  const podtracPrefix = "https://dts.podtrac.com/redirect.mp3/";
+  if (!audioUrl.startsWith(podtracPrefix)) return audioUrl;
+
+  const direct = new URL(`https://${audioUrl.slice(podtracPrefix.length)}`);
+  direct.searchParams.set("aw_0_1st.playerid", "Podcaster");
+  direct.searchParams.set("playLive", "0");
+  return direct.toString();
+};
+
 const readExisting = async () => {
   try {
     return JSON.parse(await readFile(DATA_FILE, "utf8"));
@@ -78,7 +89,8 @@ const fetchFeedTracks = async () => {
     const rawTitle = textFor(item, "title");
     const { artist, title } = titleParts(rawTitle);
     const enclosureUrl = attrFor(item, "enclosure", "url");
-    const audioUrl = enclosureUrl || textFor(item, "guid");
+    const rssAudioUrl = enclosureUrl || textFor(item, "guid");
+    const audioUrl = directAudioUrlFor(rssAudioUrl);
     const publishedAt = new Date(textFor(item, "pubDate")).toISOString();
     return {
       id: idFor(publishedAt.slice(0, 10), rawTitle),
@@ -87,7 +99,9 @@ const fetchFeedTracks = async () => {
       summary: stripHtml(textFor(item, "description")),
       publishedAt,
       sourceUrl: textFor(item, "link") || LATEST_URL,
-      audioUrl
+      audioUrl,
+      rssAudioUrl,
+      audioSourceVersion: AUDIO_SOURCE_VERSION
     };
   }).filter((track) => track.audioUrl);
 };
@@ -132,10 +146,11 @@ const archiveTrack = async (track, existingTracks) => {
   if (
     existing?.audioUrl?.startsWith("./tracks/")
     && Number(existing.trimStartSeconds || 0) === PROMO_TRIM_SECONDS
+    && existing.audioSourceVersion === AUDIO_SOURCE_VERSION
   ) {
     return {
       ...track,
-      originalAudioUrl: existing.originalAudioUrl || track.audioUrl,
+      archivedFromUrl: existing.archivedFromUrl || track.audioUrl,
       audioUrl: existing.audioUrl,
       trimStartSeconds: existing.trimStartSeconds || 0
     };
@@ -156,7 +171,7 @@ const archiveTrack = async (track, existingTracks) => {
   await trimAudio(temporary, destination);
   return {
     ...track,
-    originalAudioUrl: track.audioUrl,
+    archivedFromUrl: track.audioUrl,
     audioUrl: relative,
     trimStartSeconds: PROMO_TRIM_SECONDS
   };
