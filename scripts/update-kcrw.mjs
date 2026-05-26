@@ -1,8 +1,9 @@
 import { createHash } from "node:crypto";
 import { createWriteStream } from "node:fs";
-import { mkdir, readFile, rename, writeFile } from "node:fs/promises";
-import path from "node:path";
+import { mkdir, readFile, rename, rm, writeFile } from "node:fs/promises";
+import { spawn } from "node:child_process";
 import { pipeline } from "node:stream/promises";
+import { fileURLToPath } from "node:url";
 
 const ROOT = new URL("..", import.meta.url);
 const DATA_FILE = new URL("docs/data/tracks.json", ROOT);
@@ -11,6 +12,7 @@ const LATEST_URL = "https://www.kcrw.com/shows/todays-top-tune/latest";
 const FEED_URL = "https://feed.cdnstream1.com/zjb/feed/download/0c/01/c0/0c01c01b-56b7-4df8-8efb-6a7162abcfb8.xml";
 const ARCHIVE_AUDIO = process.env.ARCHIVE_AUDIO !== "false";
 const MAX_TRACKS = Number(process.env.MAX_TRACKS || 90);
+const PROMO_TRIM_SECONDS = Number(process.env.PROMO_TRIM_SECONDS || 12);
 
 const decodeEntities = (value = "") => value
   .replace(/<!\[CDATA\[(.*?)\]\]>/gs, "$1")
@@ -90,13 +92,52 @@ const fetchFeedTracks = async () => {
   }).filter((track) => track.audioUrl);
 };
 
+const trimAudio = async (source, destination) => {
+  if (!PROMO_TRIM_SECONDS) {
+    await rename(source, destination);
+    return;
+  }
+
+  await new Promise((resolve, reject) => {
+    const ffmpeg = spawn("ffmpeg", [
+      "-hide_banner",
+      "-loglevel",
+      "error",
+      "-y",
+      "-ss",
+      String(PROMO_TRIM_SECONDS),
+      "-i",
+      fileURLToPath(source),
+      "-codec:a",
+      "libmp3lame",
+      "-q:a",
+      "2",
+      fileURLToPath(destination)
+    ]);
+
+    ffmpeg.on("error", (error) => {
+      reject(new Error(`Could not run ffmpeg to trim audio. Install ffmpeg or set PROMO_TRIM_SECONDS=0. ${error.message}`));
+    });
+    ffmpeg.on("close", (code) => {
+      if (code === 0) resolve();
+      else reject(new Error(`ffmpeg failed while trimming ${fileURLToPath(source)}`));
+    });
+  });
+
+  await rm(source, { force: true });
+};
+
 const archiveTrack = async (track, existingTracks) => {
   const existing = existingTracks.find((candidate) => candidate.id === track.id);
-  if (existing?.audioUrl?.startsWith("./tracks/")) {
+  if (
+    existing?.audioUrl?.startsWith("./tracks/")
+    && Number(existing.trimStartSeconds || 0) === PROMO_TRIM_SECONDS
+  ) {
     return {
       ...track,
       originalAudioUrl: existing.originalAudioUrl || track.audioUrl,
-      audioUrl: existing.audioUrl
+      audioUrl: existing.audioUrl,
+      trimStartSeconds: existing.trimStartSeconds || 0
     };
   }
 
@@ -112,8 +153,13 @@ const archiveTrack = async (track, existingTracks) => {
   }
 
   await pipeline(response.body, createWriteStream(temporary));
-  await rename(temporary, destination);
-  return { ...track, originalAudioUrl: track.audioUrl, audioUrl: relative };
+  await trimAudio(temporary, destination);
+  return {
+    ...track,
+    originalAudioUrl: track.audioUrl,
+    audioUrl: relative,
+    trimStartSeconds: PROMO_TRIM_SECONDS
+  };
 };
 
 const mergeTracks = (incoming, existing) => {
