@@ -1,4 +1,5 @@
 .DS_Store
+.codex-git/
 node_modules/
 docs/tracks/*.tmp
 docs/tracks/*.part
