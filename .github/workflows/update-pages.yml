@@ -3,7 +3,8 @@ name: Update KCRW library
 on:
   workflow_dispatch:
   schedule:
-    - cron: "20 14 * * 1-5"
+    # GitHub cron uses UTC. This retries from 7:20 AM to 1:20 PM Pacific during daylight time.
+    - cron: "20 14-20 * * 1-5"
 
 permissions:
   contents: write
