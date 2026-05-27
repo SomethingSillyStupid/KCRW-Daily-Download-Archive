@@ -1,0 +1,11 @@
+#!/usr/bin/env sh
+set -eu
+
+repo_root="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
+git_dir="$repo_root/.codex-git"
+
+if [ ! -d "$git_dir" ]; then
+  cp -R "$repo_root/.git" "$git_dir"
+fi
+
+GIT_DIR="$git_dir" GIT_WORK_TREE="$repo_root" git "$@"
