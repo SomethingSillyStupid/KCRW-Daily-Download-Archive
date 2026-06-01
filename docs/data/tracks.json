@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-05-29T20:39:44.081Z",
+  "updatedAt": "2026-06-01T19:26:16.030Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "d291219b610b",
+      "title": "Carl Craig ‘Meditation Five (Edit)’",
+      "artist": "",
+      "summary": "&nbsp; Today&rsquo;s Top Tune: Carl Craig &lsquo;Meditation Five (Edit)&rsquo; &nbsp; Detroit techno pioneer Carl Craig revisits his ambient masterpiece Meditations, now available digitally for the first time. Originally conceived as a suite of beatless compositions, the album reveals a more expansive side of Craig&rsquo;s sound&mdash;bridging his techno roots with the cinematic and experimental work that continues to shape his legacy as you&rsquo;ll experience on &ldquo;Meditation Five.&rdquo; &nbsp; (Planet E Communications) &nbsp;",
+      "publishedAt": "2026-06-01T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/carl-craig-meditation-fi-8f0aaf",
+      "audioUrl": "./tracks/2026-06-01-d291219b610b.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/carl-craig-meditation-fi-8f0aaf/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/carl-craig-meditation-fi-8f0aaf/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "9c0f63f5a3ae",
       "title": "Raine Torres ‘Petite Suite’",
