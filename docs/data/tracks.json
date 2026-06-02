@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-01T22:38:17.876Z",
+  "updatedAt": "2026-06-02T18:12:42.197Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "bb1b85a939d5",
+      "title": "Seu Jorge ‘Quando Chego (Feat. Marisa Monte)'",
+      "artist": "",
+      "summary": "&nbsp; &nbsp; Today&rsquo;s Top Tune: Seu Jorge &lsquo;Quando Chego (Feat. Marisa Monte)' &nbsp; Seu Jorge unveils The Other Side, an ambitious new album years in the making, produced with Mario Caldato Jr. and featuring orchestral arrangements by Miguel Atwood-Ferguson. Blending Brazilian music with jazz, bossa nova, and cinematic orchestration, the record reveals a more contemplative side of the legendary artist&mdash;expansive, patient, and deeply reflective. The album features several guests including Beck, Zap Mama and Marisa Monte on &ldquo;Quando Chego.&rdquo;&nbsp; &nbsp; (Phonomotor Records)",
+      "publishedAt": "2026-06-02T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/seu-jorge-quando-chego-f-15be2b",
+      "audioUrl": "./tracks/2026-06-02-bb1b85a939d5.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/seu-jorge-quando-chego-f-15be2b/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/seu-jorge-quando-chego-f-15be2b/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "d291219b610b",
       "title": "Carl Craig ‘Meditation Five (Edit)’",
