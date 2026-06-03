@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-02T21:25:44.049Z",
+  "updatedAt": "2026-06-03T18:33:55.141Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "51a2b3f530d7",
+      "title": "Cécile McLorin Salvant ‘With Every Breath I Take’",
+      "artist": "",
+      "summary": "&nbsp; &nbsp; Today&rsquo;s Top Tune: C&eacute;cile McLorin Salvant &lsquo;With Every Breath I Take&rsquo;&nbsp;&nbsp; &nbsp; C&eacute;cile McLorin Salvant announces With Every Breath I Take, her first album recorded with orchestra, arriving June 26. Backed by the Netherlands&rsquo; Metropole Orkest and conducted by Jules Buckley, Salvant brings cinematic depth to a collection of timeless songs transforming deeply personal material into something sweeping and intimate at once. &nbsp; (Nonesuch Records) &nbsp;",
+      "publishedAt": "2026-06-03T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/cecile-mclorin-salvant-w-c502c4",
+      "audioUrl": "./tracks/2026-06-03-51a2b3f530d7.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/cecile-mclorin-salvant-w-c502c4/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/cecile-mclorin-salvant-w-c502c4/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "bb1b85a939d5",
       "title": "Seu Jorge ‘Quando Chego (Feat. Marisa Monte)'",
