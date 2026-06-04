@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-03T22:07:07.796Z",
+  "updatedAt": "2026-06-04T17:24:48.138Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "9709847af086",
+      "title": "Silvana Estrada & pablopablo ‘Antes De Ti’ (Before You)",
+      "artist": "",
+      "summary": "&nbsp;Today&rsquo;s Top Tune:&nbsp; Silvana Estrada & pablopablo &lsquo;Antes De Ti&rsquo;&nbsp; Latin Grammy-winning artist Silvana Estrada returns with &ldquo;Antes De Ti,&rdquo; a tender duet with pablopablo from the deluxe edition of Vendr&aacute;n Suaves Lluvias. Blending intimate songwriting with emotional warmth, the track reflects on love as a grounding force, further cementing Estrada as one of the leading voices in contemporary Spanish-language music. &nbsp; (Glassnote Records) &nbsp;",
+      "publishedAt": "2026-06-04T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/silvana-estrada-pablopab-45359f",
+      "audioUrl": "./tracks/2026-06-04-9709847af086.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/silvana-estrada-pablopab-45359f/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/silvana-estrada-pablopab-45359f/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "51a2b3f530d7",
       "title": "Cécile McLorin Salvant ‘With Every Breath I Take’",
