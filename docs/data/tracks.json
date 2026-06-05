@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-04T20:26:50.200Z",
+  "updatedAt": "2026-06-05T16:43:28.262Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "17acbececde7",
+      "title": "Teddy Thompson ‘So This Is Heartache’",
+      "artist": "",
+      "summary": "Today&rsquo;s Top Tune: Teddy Thompson &lsquo;So This Is Heartache&rsquo; Teddy Thompson returns with Never Be The Same, his first album of original songs in five years. Blending classic soul, country, and timeless songwriting, the record explores love, heartbreak, and the passage of time&mdash;led by the aching single &ldquo;So This Is Heartache,&rdquo; a warm, Stax-inspired waltz for the broken-hearted. Sunday July 26 Teddy Thompson headlines McCabe&rsquo;s Guitar Shop in Santa Monica&nbsp; (RPF Records / Royal Potato Family) &nbsp;",
+      "publishedAt": "2026-06-05T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/teddy-thompson-so-this-i-31a511",
+      "audioUrl": "./tracks/2026-06-05-17acbececde7.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/teddy-thompson-so-this-i-31a511/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/teddy-thompson-so-this-i-31a511/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "9709847af086",
       "title": "Silvana Estrada & pablopablo ‘Antes De Ti’ (Before You)",
