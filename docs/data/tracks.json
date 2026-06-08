@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-05T20:57:42.013Z",
+  "updatedAt": "2026-06-08T17:30:27.984Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "3358cce6aee3",
+      "title": "Shakey Graves ‘When The Love Is New’",
+      "artist": "",
+      "summary": "&nbsp; Today&rsquo;s Top Tune: Shakey Graves &lsquo;When The Love Is New&rsquo;&nbsp; &nbsp; Shakey Graves explores matters of the heart on &ldquo;When the Love Is New,&rdquo; a standout from his new album Fondness, Etc. Driven by a propulsive Tulsa-style groove and brooding alt-rock energy, the song reflects on the uncertainty and exhilaration of new love while showcasing the intimate, home-recorded spirit of the album. &nbsp; (Dualtone) &nbsp;",
+      "publishedAt": "2026-06-08T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/shakey-graves-when-the-l-4fa6ab",
+      "audioUrl": "./tracks/2026-06-08-3358cce6aee3.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/shakey-graves-when-the-l-4fa6ab/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/shakey-graves-when-the-l-4fa6ab/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "17acbececde7",
       "title": "Teddy Thompson ‘So This Is Heartache’",
