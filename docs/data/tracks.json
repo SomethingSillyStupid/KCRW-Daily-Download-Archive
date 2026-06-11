@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-10T20:47:05.830Z",
+  "updatedAt": "2026-06-11T17:47:36.505Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "7f4dc25dcbca",
+      "title": "Digitalism ‘Achtung! Optimism’",
+      "artist": "",
+      "summary": "&nbsp; Today&rsquo;s Top Tune: Digitalism &lsquo;Achtung! Optimism&rsquo;&nbsp; &nbsp; German electronic duo Digitalism return with &ldquo;Achtung! Optimism,&rdquo; a driving new single from their album Optimism. Balancing euphoric beats with a touch of early-2000s indie nostalgia, the track explores the tension between hope and uncertainty while celebrating connection, resilience, and finding positivity in a fast-moving world. &nbsp; (Magnetism Recording Co.) &nbsp;",
+      "publishedAt": "2026-06-11T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/digitalism-achtung-optim-0865e3",
+      "audioUrl": "./tracks/2026-06-11-7f4dc25dcbca.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/digitalism-achtung-optim-0865e3/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/digitalism-achtung-optim-0865e3/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "b97ee928aef6",
       "title": "Okonski ‘Axes (Feat. Rachel Kitchlew)",
