@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-12T22:02:19.080Z",
+  "updatedAt": "2026-06-15T18:47:53.250Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "5bda6e7860a4",
+      "title": "Josh da Costa ‘Proving Me Right’",
+      "artist": "",
+      "summary": "&nbsp; Today&rsquo;s Top Tune: Josh da Costa &lsquo;Proving Me Right&rsquo; &nbsp; Josh da Costa steps out on his own with New Wave Graveyard (out July 24), a highly anticipated solo debut inspired by the glam, synth-pop, and post-punk sounds of artists like Japan, Sparks, and ELO. Led by the single &ldquo;Proving Me Right,&rdquo; the album plays like a collection of lost classics from an alternate universe&mdash;blending da Costa&rsquo;s eclectic musical obsessions into a colorful, genre-hopping statement. &nbsp; (Stones Throw) &nbsp;",
+      "publishedAt": "2026-06-15T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/josh-da-costa-proving-me-09ec87",
+      "audioUrl": "./tracks/2026-06-15-5bda6e7860a4.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/josh-da-costa-proving-me-09ec87/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/josh-da-costa-proving-me-09ec87/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "06c193ce1037",
       "title": "Wife Support ‘Back To Me’",
