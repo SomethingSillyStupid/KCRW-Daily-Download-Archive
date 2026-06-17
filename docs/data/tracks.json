@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-16T21:49:13.119Z",
+  "updatedAt": "2026-06-17T17:26:43.867Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "7282d7aafb53",
+      "title": "Caroline Rose ‘Yip Yip Yow’",
+      "artist": "",
+      "summary": "Today&rsquo;s Top Tune: Caroline Rose &lsquo;Yip Yip Yow&rsquo;&nbsp; &nbsp; Caroline Rose finally gives an official release to &ldquo;Yip Yip Yow,&rdquo; a longtime fan favorite that&rsquo;s been lighting up live shows for more than a decade. Blending psychobilly, alt-country, rock, and pop, the track channels garage-band energy with sharp lyrics and Rose&rsquo;s unmistakable vocal swagger. &nbsp; (Suck Records) &nbsp;",
+      "publishedAt": "2026-06-17T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/caroline-rose-yip-yip-yo-4715d3",
+      "audioUrl": "./tracks/2026-06-17-7282d7aafb53.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/caroline-rose-yip-yip-yo-4715d3/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/caroline-rose-yip-yip-yo-4715d3/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "8702461de4a5",
       "title": "Thee Sinseers ‘Let’s Fall In Love Again’",
