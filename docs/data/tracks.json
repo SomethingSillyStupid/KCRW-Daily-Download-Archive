@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-17T20:31:23.886Z",
+  "updatedAt": "2026-06-18T17:34:47.001Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "83ec9071a962",
+      "title": "Ibeyi ‘Aset’",
+      "artist": "",
+      "summary": "&nbsp; &nbsp; Today&rsquo;s Top Tune: Ibeyi &lsquo;Aset&rsquo;&nbsp; Ibeyi return with Offering (out June 26), their first album in four years and their first as independent artists. Led by the single &ldquo;Aset,&rdquo; the French-Cuban duo draws on the mythology of the goddess Isis to explore love, sacrifice, and devotion&mdash;pairing spiritual depth with the soulful, genre-blurring sound that has defined their work. (AWAL Recordings) &nbsp;",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/ibeyi-aset",
+      "audioUrl": "./tracks/2026-06-18-83ec9071a962.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/ibeyi-aset/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/ibeyi-aset/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "7282d7aafb53",
       "title": "Caroline Rose ‘Yip Yip Yow’",
