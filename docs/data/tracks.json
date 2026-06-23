@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-22T21:17:08.703Z",
+  "updatedAt": "2026-06-23T16:43:50.759Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "cde6683989b3",
+      "title": "Death Cab For Cutie ‘Stone Over Water’",
+      "artist": "",
+      "summary": "&nbsp; &nbsp; Today&rsquo;s Top Tune: Death Cab For Cutie &lsquo;Stone Over Water&rsquo;&nbsp; &nbsp; Death Cab for Cutie return with I Built You A Tower, their 11th studio album. The latest single, &ldquo;Stone Over Water,&rdquo; pairs the band's signature melodic introspection with a poignant look at the struggle to convince yourself&mdash;and everyone around you&mdash;that everything is okay when it clearly isn't. It's another emotionally resonant chapter from one of indie rock&rsquo;s most enduring bands. &nbsp; (Anti Records) &nbsp;",
+      "publishedAt": "2026-06-23T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/death-cab-for-cutie-ston-12338e",
+      "audioUrl": "./tracks/2026-06-23-cde6683989b3.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/death-cab-for-cutie-ston-12338e/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/death-cab-for-cutie-ston-12338e/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "b91e3f1ced45",
       "title": "Little Barrie ‘Luggin’ Hurt’",
