@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-23T21:09:22.846Z",
+  "updatedAt": "2026-06-24T16:36:20.616Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "989475dd9d09",
+      "title": "Panda Bear & Sonic Boom ‘A? of When’ (Ultimate Drive Time Mix)",
+      "artist": "",
+      "summary": "&nbsp; Today&rsquo;s Top Tune:&nbsp; Panda Bear & Sonic Boom &lsquo;A? of When&rsquo; (Ultimate Drive Time Mix) &nbsp; Panda Bear and Sonic Boom reunite for A ? of WHEN, their eagerly anticipated follow-up to 2022&rsquo;s Reset. Blending playful loops, pedal steel, harp, and even mariachi flourishes, the album pairs its bright, adventurous sound with reflections on modern anxieties, from online burnout to environmental uncertainty. The title track captures that contrast perfectly: an irresistibly buoyant tune that turns concern for the future into something unexpectedly joyful. We hit play on the Ultimate Drive Time Remix.&nbsp; &nbsp; (Domino) &nbsp;",
+      "publishedAt": "2026-06-24T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/panda-bear-sonic-boom-a-b7413c",
+      "audioUrl": "./tracks/2026-06-24-989475dd9d09.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/panda-bear-sonic-boom-a-b7413c/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/panda-bear-sonic-boom-a-b7413c/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "cde6683989b3",
       "title": "Death Cab For Cutie ‘Stone Over Water’",
