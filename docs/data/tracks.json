@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-24T20:58:22.111Z",
+  "updatedAt": "2026-06-25T16:37:55.769Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "9a3ed890f7bc",
+      "title": "Elvis K. ‘Crane’",
+      "artist": "",
+      "summary": "Today's Top Tune: Elvis K. 'Crane'&nbsp; Elvis K. &lsquo;Crane&rsquo; Former FIDLAR guitarist Elvis Kuehn continues his solo journey as Elvis K. with &ldquo;Crane,&rdquo; a dark and cinematic rock track recorded in Austin, Texas. The song channels the brooding spirit of artists like Nick Cave, Tom Waits, and Iggy Pop while showcasing Kuehn&rsquo;s evolving songwriting voice. &nbsp; (Independent Release) &nbsp;",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/elvis-k-crane",
+      "audioUrl": "./tracks/2026-06-25-9a3ed890f7bc.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/elvis-k-crane/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/elvis-k-crane/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "989475dd9d09",
       "title": "Panda Bear & Sonic Boom ‘A? of When’ (Ultimate Drive Time Mix)",
