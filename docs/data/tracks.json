@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-25T21:05:27.671Z",
+  "updatedAt": "2026-06-26T16:29:37.194Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "e0c0d4cd6b66",
+      "title": "Vincent Taeger ‘O Santo do Nome’",
+      "artist": "",
+      "summary": "&nbsp; Today&rsquo;s Top Tune: Vincent Taeger &lsquo;O Santo do Nome&rsquo;&nbsp; French drummer, composer, and producer Vincent Taeger explores Brazilian musical traditions on &ldquo;O Santo do Nome.&rdquo; Blending rich percussion, jazz influences, and contemporary arrangements, the track reflects Taeger&rsquo;s knack for creating deeply rhythmic, globally minded music that feels both timeless and adventurous. &nbsp; (Flee Project)",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/vincent-taeger-o-santo-d-7a54e3",
+      "audioUrl": "./tracks/2026-06-26-e0c0d4cd6b66.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/vincent-taeger-o-santo-d-7a54e3/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/vincent-taeger-o-santo-d-7a54e3/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "9a3ed890f7bc",
       "title": "Elvis K. ‘Crane’",
