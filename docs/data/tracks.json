@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-26T20:56:21.295Z",
+  "updatedAt": "2026-06-29T17:13:27.600Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "d491bfb21566",
+      "title": "Sofie Royer ‘Sesquicentennial’",
+      "artist": "",
+      "summary": "&nbsp; Today&rsquo;s Top Tune: Sofie Royer &lsquo;Sesquicentennial&rsquo; Austrian based artist Sofie Royer returns with &ldquo;Sesquicentennial,&rdquo; the first glimpse of her forthcoming album before/after (out Sept. 4). Blending sophisticated pop with philosophical reflection, the track explores the cycles we repeat throughout our lives&mdash;capturing that fleeting moment between who we've been and who we're becoming. &ldquo;The idea for the song came to me in the Texas heat after a SXSW show when I read the word on the back of a bumper sticker. It means every one hundred and fifty years; which I remember my sunstroked self finding both silly and thrilling, and made me think about all that&rsquo;s cyclical in our own lifetimes; what we&rsquo;re fated to repeat.&rdquo; &nbsp; (Stones Throw) &nbsp;",
+      "publishedAt": "2026-06-29T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/sofie-royer-sesquicenten-334445",
+      "audioUrl": "./tracks/2026-06-29-d491bfb21566.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/sofie-royer-sesquicenten-334445/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/sofie-royer-sesquicenten-334445/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "e0c0d4cd6b66",
       "title": "Vincent Taeger ‘O Santo do Nome’",
