@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-06-29T21:01:16.914Z",
+  "updatedAt": "2026-06-30T16:33:23.883Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "87871615a23b",
+      "title": "Jon Spencer ‘Knock ‘Em Out’",
+      "artist": "",
+      "summary": "&nbsp; Today&rsquo;s Top Tune: Jon Spencer &lsquo;Knock &lsquo;Em Out&rsquo;&nbsp; &nbsp; The legendary Jon Spencer can't take any more on his latest long-player, SONGS OF PERSONAL LOSS AND PROTEST. Backed once again by the powerhouse rhythm section, Mr. Blues Explosion is still lighting the torches and ringing the bells, singing and preaching from the rooftops, live on the world stage, on the airwaves, via satellite, and right here, right now, on a brand-new record. Let&rsquo;s kick it with &ldquo;Knock &lsquo;Em Out.&rdquo;&nbsp; &nbsp; (Shove Records) &nbsp;",
+      "publishedAt": "2026-06-30T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/jon-spencer-knock-em-out",
+      "audioUrl": "./tracks/2026-06-30-87871615a23b.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/jon-spencer-knock-em-out/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/jon-spencer-knock-em-out/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "d491bfb21566",
       "title": "Sofie Royer ‘Sesquicentennial’",
