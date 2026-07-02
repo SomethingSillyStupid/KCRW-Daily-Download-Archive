@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-01T20:56:03.895Z",
+  "updatedAt": "2026-07-02T16:17:22.060Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "14e934825c6b",
+      "title": "Jim James ‘Come Again’",
+      "artist": "",
+      "summary": "&nbsp; &nbsp; Today&rsquo;s Top Tune: Jim James &lsquo;Come Again&rsquo;&nbsp; &nbsp; Jim James returns with &ldquo;Come Again,&rdquo; the first single from his upcoming solo album Wowed Out (out August 28), his first in eight years. Originally written for a film score, the track transforms into a soulful, psychedelic meditation on resilience&mdash;finding hope and beauty amid uncertainty while reminding us to keep moving forward. &nbsp; (ATO Records) &nbsp;",
+      "publishedAt": "2026-07-02T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/jim-james-come-again",
+      "audioUrl": "./tracks/2026-07-02-14e934825c6b.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/jim-james-come-again/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/jim-james-come-again/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "cc666af2f9e0",
       "title": "Mollie Elizabeth ‘Run Rabbit’",
