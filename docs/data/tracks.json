@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-02T21:35:18.463Z",
+  "updatedAt": "2026-07-03T16:01:46.261Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "5e64558d106f",
+      "title": "Warm Sound ‘Better Days’",
+      "artist": "",
+      "summary": "&nbsp; Today&rsquo;s Top Tune: Warm Sound &lsquo;Better Days&rsquo;&nbsp; &nbsp; After a string of buzzy standalone singles &mdash; including KUTX Staff Favorite Song of 2025 &ldquo; Moons &rdquo; &mdash; Austin duo Warm Sound return to flex some impeccably toned sonic muscles on their third EP, Better Days. The title track, which you can grab as today&rsquo;s free download, showcases the group&rsquo;s signature lush synthscapes and tight-knit harmonies. Click in for a richly textured journey to the depths of auditory emotion. &nbsp; (Obscure-Disk) &nbsp;",
+      "publishedAt": "2026-07-03T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/warm-sound-better-days",
+      "audioUrl": "./tracks/2026-07-03-5e64558d106f.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/warm-sound-better-days/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/warm-sound-better-days/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "14e934825c6b",
       "title": "Jim James ‘Come Again’",
