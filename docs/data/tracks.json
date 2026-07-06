@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-03T21:33:45.536Z",
+  "updatedAt": "2026-07-06T17:16:44.585Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "d4e1d7eb2983",
+      "title": "EELS ‘Cap in Hand’",
+      "artist": "",
+      "summary": "The LA band EELS has a long history with KCRW. Their first airplay, their first ever live radio performance, all happened at KCRW back in 1995 when the band was still unsigned. So naturally, we get excited whenever a new EELS album is announced - and they've just announced their 16th, called COOKIE HAPPENED, due in October. Speaking about the album title, E says: &#34;Well, all of this will be forgotten. Every joy, accomplishment and hardship will one day become so irrelevant it will be as if none of it occurred. But as the great philosopher of our times, Cookie Monster once said: 'Me no cry because cookie is finished. Me smile because cookie happened.' The first single from EELS' new album is Cap in Hand, and it's Today's Top Tune.",
+      "publishedAt": "2026-07-06T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/eels-cap-in-hand",
+      "audioUrl": "./tracks/2026-07-06-d4e1d7eb2983.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/eels-cap-in-hand/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/eels-cap-in-hand/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "5e64558d106f",
       "title": "Warm Sound ‘Better Days’",
