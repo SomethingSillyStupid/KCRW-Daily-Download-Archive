@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-06T21:02:29.736Z",
+  "updatedAt": "2026-07-07T16:43:22.976Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "412fe7c547a2",
+      "title": "Ezra Collective ‘Well Organised’",
+      "artist": "",
+      "summary": "Ezra Collective are one of Britain&rsquo;s most influential contemporary bands, blending jazz with Afrobeat, reggae, salsa and UK sounds to reflect their London upbringing and diverse cultural roots. Following the success of their Mercury Prize-winning album Where I&rsquo;m Meant To Be and the acclaimed Dance, No One&rsquo;s Watching, their new album Here Because Of Hope explores migration, identity, pain and resilience across West African, Caribbean and British musical traditions. Today's Top Tune is the latest single from the album. It's out today and it features Jamaican singer Lila Ik&eacute;.",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/ezra-collective-well-org-4588ef",
+      "audioUrl": "./tracks/2026-07-07-412fe7c547a2.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/ezra-collective-well-org-4588ef/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/ezra-collective-well-org-4588ef/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "d4e1d7eb2983",
       "title": "EELS ‘Cap in Hand’",
