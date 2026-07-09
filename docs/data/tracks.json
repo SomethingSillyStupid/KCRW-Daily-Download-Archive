@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-08T21:33:00.120Z",
+  "updatedAt": "2026-07-09T16:43:30.519Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "3af854ccf4d6",
+      "title": "Nina Maia ‘AMARGO’",
+      "artist": "",
+      "summary": "The young Brazilian singer / songwriter Nina Maia has already collaborated on the soundtracks for six Brazilian feature films, including a feature with KCRW favorite Liniker. But her debut solo album draws as much from Billie Eilish or Rosal&iacute;a, as it does Milton Nascimento. Though rich in Brazilian heritage, Nina also channels the trip hop goodness of Portishead and Massive Attack. Today's Top Tune is AMARGO from Nina Maia on KCRW.",
+      "publishedAt": "2026-07-09T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/nina-maia-amargo",
+      "audioUrl": "./tracks/2026-07-09-3af854ccf4d6.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/nina-maia-amargo/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/nina-maia-amargo/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "d5e7acf44609",
       "title": "Lord Fascinator & Spiral Drive ‘AUTO’",
