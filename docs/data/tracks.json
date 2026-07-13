@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-10T20:44:44.607Z",
+  "updatedAt": "2026-07-13T16:44:29.450Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "52275884aa3e",
+      "title": "Rahill ‘Del Dareh Pir Misheh’",
+      "artist": "",
+      "summary": "Our featured artist today is Rahill. Born in Michigan of Iranian heritage, and currently based in New York, she brings us a very cool cover of a 1973 Iranian psychedelic classic from Kourosh Yaghmaei. This modern takes reflects a glimmer of hope in the lyrics. &ldquo;My days are getting light from your eyes,&rdquo; she sings, &ldquo;as sorrow dies in the darkness&rdquo;. Today's Top Tune is from Rahill on KCRW.",
+      "publishedAt": "2026-07-13T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/rahill-del-dareh-pir-mis-c18b6c",
+      "audioUrl": "./tracks/2026-07-13-52275884aa3e.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/rahill-del-dareh-pir-mis-c18b6c/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/rahill-del-dareh-pir-mis-c18b6c/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "6ee15fd152df",
       "title": "moonvine ‘cherry spice’",
