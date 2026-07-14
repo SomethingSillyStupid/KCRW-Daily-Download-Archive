@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-13T20:35:34.087Z",
+  "updatedAt": "2026-07-14T15:48:03.403Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "5612fa247c02",
+      "title": "Storefront Church ‘Tendency For Violence’",
+      "artist": "",
+      "summary": "Storefront Church is the moniker for Lukas Frank's visceral, vibrant musical universe. The LA based artist claims his latest project puts &#34;his worst impulses on display, alone in a spotlight, singing at gunpoint&#34;. His new full length, Blue Movie, is out September 18th, but for now we have &#34;Tendency For Violence&#34; and it's Today's Top Tune.",
+      "publishedAt": "2026-07-14T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/storefront-church-tenden-48ef07",
+      "audioUrl": "./tracks/2026-07-14-5612fa247c02.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/storefront-church-tenden-48ef07/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/storefront-church-tenden-48ef07/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "52275884aa3e",
       "title": "Rahill ‘Del Dareh Pir Misheh’",
