@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-14T21:17:03.136Z",
+  "updatedAt": "2026-07-15T15:53:55.908Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "8a228a3c07fb",
+      "title": "mary in the junkyard ‘New Muscles’",
+      "artist": "",
+      "summary": "London based trio mary in the junkyard first came to our attention as part of last year's Richard Russell project Everything is Recorded. The band's inventive writing centers on the distinctive voice of Clari Freeman-Taylor, all beautifully framed on their track &#34;New Muscles&#34;, a song you might never guess was originally composed on accordion. It's Today's Top Tune. &#34;New Muscles&#34; from mary in the junkyard on KCRW.",
+      "publishedAt": "2026-07-15T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/mary-in-the-junkyard-new-34ed10",
+      "audioUrl": "./tracks/2026-07-15-8a228a3c07fb.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/mary-in-the-junkyard-new-34ed10/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/mary-in-the-junkyard-new-34ed10/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "5612fa247c02",
       "title": "Storefront Church ‘Tendency For Violence’",
