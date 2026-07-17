@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-16T21:18:28.018Z",
+  "updatedAt": "2026-07-17T15:43:16.190Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "9994bf43526b",
+      "title": "Poolside ‘Bedroom Eyes’",
+      "artist": "",
+      "summary": "Poolside is Jeffrey Paradise, who over the past 15 years - four albums and dozens of collaborations later - has defined a sound that has launched a genre: Daytime Disco. Poolside's latest is a big swing called &#34;Bedroom Eyes,&#34; and it features the voice of UK singer-songwriter, and platinum-selling artist Stevie Appleton. This shimmering Summer single explores the depth of a single look that could be love at first sight, and it's Today's Top Tune.",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/poolside-bedroom-eyes",
+      "audioUrl": "./tracks/2026-07-17-9994bf43526b.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/poolside-bedroom-eyes/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/poolside-bedroom-eyes/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "4761c93b7d6d",
       "title": "Bongeziwe Mabandla ‘Ndinje’",
