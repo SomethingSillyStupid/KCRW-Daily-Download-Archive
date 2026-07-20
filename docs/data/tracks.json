@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-17T21:10:05.699Z",
+  "updatedAt": "2026-07-20T16:02:49.261Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "b358b5e1b5d6",
+      "title": "Teilz ‘17’",
+      "artist": "",
+      "summary": "Allie Teilz' origin story starts in Phoenix, Arizona, where she worked at a record store at 13, and booked local shows with her favorite artists by the age of 15. A celebrated career as a DJ followed, and now, with her own music, she continues to explore her fondness for disco and glam rock. Her whole history is evident on her new single &#34;17&#34; and it's Today's Top Tune. Teilz on KCRW.",
+      "publishedAt": "2026-07-20T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/teilz-17",
+      "audioUrl": "./tracks/2026-07-20-b358b5e1b5d6.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/teilz-17/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/teilz-17/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "9994bf43526b",
       "title": "Poolside ‘Bedroom Eyes’",
