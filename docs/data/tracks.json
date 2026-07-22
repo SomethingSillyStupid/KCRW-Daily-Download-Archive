@@ -1,8 +1,21 @@
 {
-  "updatedAt": "2026-07-21T21:34:03.935Z",
+  "updatedAt": "2026-07-22T15:53:31.183Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "43186a74d6c7",
+      "title": "Jordan Patterson ‘Cinderella’",
+      "artist": "",
+      "summary": "Born in North Carolina, and raised in the San Fernando Valley, Jordan Patterson conjures the emotional intensity and conversational tone of 90s Ani Difranco. Her voice commands an audience, and her song &#34;Cinderella&#34; is Today's Top Tune.",
+      "publishedAt": "2026-07-22T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/jordan-patterson-cindere-8cdca0",
+      "audioUrl": "./tracks/2026-07-22-43186a74d6c7.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/jordan-patterson-cindere-8cdca0/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/jordan-patterson-cindere-8cdca0/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "ca8f957cb74b",
       "title": "Chinese American Bear ‘Chant (南无阿弥陀佛)’",
