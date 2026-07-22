@@ -47,6 +47,22 @@
             <h2>Library</h2>
             <input class="search" id="searchInput" type="search" placeholder="Search tracks" aria-label="Search tracks">
           </div>
+          <div class="bulk-bar" aria-label="Bulk download options">
+            <div class="date-field">
+              <label for="fromDate">From</label>
+              <input id="fromDate" type="date">
+            </div>
+            <div class="date-field">
+              <label for="toDate">To</label>
+              <input id="toDate" type="date">
+            </div>
+            <button class="clear-dates" id="clearDates" type="button">All dates</button>
+            <button class="zip-button" id="zipButton" type="button" disabled>Download ZIP</button>
+            <div class="zip-progress" id="zipProgress" hidden>
+              <div class="zip-bar"><span id="zipBarFill"></span></div>
+              <p class="zip-status" id="zipStatus"></p>
+            </div>
+          </div>
           <p class="empty" id="emptyState" hidden>No tracks match that search.</p>
           <ul class="track-list" id="trackList"></ul>
         </section>

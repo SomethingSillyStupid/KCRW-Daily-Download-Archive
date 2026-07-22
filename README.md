@@ -21,6 +21,16 @@ Then open `http://localhost:4173`.
 
 Run the workflow manually from the Actions tab any time you want an immediate refresh.
 
+## Bulk downloads
+
+The library page includes a date-range picker and a **Download ZIP** button. The ZIP is built in the browser (no server needed) from the tracks in the selected range, with each MP3 renamed from its metadata:
+
+```text
+2026-07-22 - Jordan Patterson - Cinderella.mp3
+```
+
+Leave the dates at their defaults to download the entire archive. The button label shows how many tracks the current range covers; while a ZIP is building it turns into a Cancel button with a progress bar.
+
 ## Link-only mode
 
 If you ever want to avoid storing MP3 files and only point at KCRW's current URLs:
