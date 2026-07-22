@@ -23,13 +23,28 @@ Run the workflow manually from the Actions tab any time you want an immediate re
 
 ## Bulk downloads
 
-The library page includes a date-range picker and a **Download ZIP** button. The ZIP is built in the browser (no server needed) from the tracks in the selected range, with each MP3 renamed from its metadata:
+The library page includes a date-range picker and a **Download ZIP** button. The ZIP is built in the browser (no server needed) from the tracks in the selected range, with each MP3 named from its metadata:
 
 ```text
-2026-07-22 - Jordan Patterson - Cinderella.mp3
+Jordan Patterson - Cinderella.mp3
 ```
 
 Leave the dates at their defaults to download the entire archive. The button label shows how many tracks the current range covers; while a ZIP is building it turns into a Cancel button with a progress bar.
+
+## ID3 metadata
+
+Every archived MP3 is tagged (ID3v2.3, stream copy — no re-encode) so imports into Apple Music/iTunes sort cleanly:
+
+- **Artist / Title** from the track metadata
+- **Album**: exactly `Today's Top Tune`
+- **Album artist**: `KCRW` (keeps the album grouped as one compilation)
+- **Track number**: chronological library position, and the air date as the year tag
+
+`node scripts/tag-existing.mjs` re-tags any already-archived files that predate this behavior; it is idempotent and skips files that are already tagged.
+
+## Archive size
+
+The library keeps the most recent 180 tracks in `docs/data/tracks.json` (`MAX_TRACKS` in `scripts/update-kcrw.mjs`). Older MP3 files are not deleted automatically.
 
 ## Link-only mode
 

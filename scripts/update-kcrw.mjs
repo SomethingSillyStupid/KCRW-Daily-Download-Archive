@@ -4,6 +4,7 @@ import { mkdir, readFile, rename, rm, writeFile } from "node:fs/promises";
 import { spawn } from "node:child_process";
 import { pipeline } from "node:stream/promises";
 import { fileURLToPath } from "node:url";
+import { tagAudio, titleParts } from "./metadata.mjs";
 
 const ROOT = new URL("..", import.meta.url);
 const DATA_FILE = new URL("docs/data/tracks.json", ROOT);
@@ -11,7 +12,7 @@ const TRACK_DIR = new URL("docs/tracks/", ROOT);
 const LATEST_URL = "https://www.kcrw.com/shows/todays-top-tune/latest";
 const FEED_URL = "https://feed.cdnstream1.com/zjb/feed/download/0c/01/c0/0c01c01b-56b7-4df8-8efb-6a7162abcfb8.xml";
 const ARCHIVE_AUDIO = process.env.ARCHIVE_AUDIO !== "false";
-const MAX_TRACKS = Number(process.env.MAX_TRACKS || 90);
+const MAX_TRACKS = Number(process.env.MAX_TRACKS || 180);
 const PROMO_TRIM_SECONDS = Number(process.env.PROMO_TRIM_SECONDS || 12);
 const AUDIO_SOURCE_VERSION = "direct-cdn-v1";
 
@@ -46,13 +47,6 @@ const idFor = (publishedAt, title) => createHash("sha1")
   .update(`${publishedAt}:${title}`)
   .digest("hex")
   .slice(0, 12);
-
-const titleParts = (rawTitle) => {
-  const title = rawTitle.replace(/\s+/g, " ").trim();
-  const split = title.match(/^(.+?)\s+-\s+(.+)$/);
-  if (!split) return { title, artist: "" };
-  return { artist: split[1].trim(), title: split[2].trim() };
-};
 
 const directAudioUrlFor = (audioUrl) => {
   const podtracPrefix = "https://dts.podtrac.com/redirect.mp3/";
@@ -169,6 +163,12 @@ const archiveTrack = async (track, existingTracks) => {
 
   await pipeline(response.body, createWriteStream(temporary));
   await trimAudio(temporary, destination);
+  await tagAudio(destination, {
+    artist: track.artist,
+    title: track.title,
+    date: track.publishedAt.slice(0, 10),
+    trackNumber: track.trackNumber
+  });
   return {
     ...track,
     archivedFromUrl: track.audioUrl,
@@ -191,8 +191,21 @@ const main = async () => {
   const existing = await readExisting();
   const feedTracks = await fetchFeedTracks();
 
+  // Give every track a stable library position (oldest = 1) for ID3 TRCK tags.
+  // Existing entries keep their number; only brand-new tracks get a new one.
+  const existingTracks = existing.tracks || [];
+  const existingById = new Map(existingTracks.map((track) => [track.id, track]));
+  let highestNumber = Math.max(
+    0,
+    ...existingTracks.map((track) => Number(track.trackNumber) || 0),
+    existingTracks.length
+  );
+  for (const track of feedTracks) {
+    track.trackNumber = existingById.get(track.id)?.trackNumber ?? ++highestNumber;
+  }
+
   const incoming = ARCHIVE_AUDIO
-    ? await Promise.all(feedTracks.map((track) => archiveTrack(track, existing.tracks || [])))
+    ? await Promise.all(feedTracks.map((track) => archiveTrack(track, existingTracks)))
     : feedTracks;
 
   const data = {

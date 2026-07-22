@@ -85,10 +85,7 @@ const downloadName = (track) => {
 
 const zipEntryName = (track, usedNames) => {
   const { artist, title } = displayParts(track);
-  const day = trackDate(track);
-  const base = sanitizeName(
-    [day, artist || "KCRW", title || "Today's Top Tune"].filter(Boolean).join(" - ")
-  );
+  const base = sanitizeName(`${artist || "KCRW"} - ${title || "Today's Top Tune"}`);
   const name = truncateFileName(`${base || "todays-top-tune"}.mp3`);
   let candidate = name;
   let counter = 2;
