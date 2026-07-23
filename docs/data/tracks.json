@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-22T21:31:51.002Z",
+  "updatedAt": "2026-07-23T16:03:55.606Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "9794c99b9a29",
+      "title": "BODYSCANNER",
+      "artist": "UCHE YARA",
+      "summary": "KCRW favorite Uche Yara is Austrian born, and Berlin-based. Her electrifying new single explores the constant tension between control and surrender, between dominance and submissiveness. BODYSCANNER thrives on that duality and it's Today's Top Tune.",
+      "publishedAt": "2026-07-23T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/uche-yara-bodyscanner",
+      "audioUrl": "./tracks/2026-07-23-9794c99b9a29.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/uche-yara-bodyscanner/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 44,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/uche-yara-bodyscanner/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "43186a74d6c7",
       "title": "Cinderella",
