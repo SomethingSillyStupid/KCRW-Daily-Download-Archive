@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-23T21:29:50.478Z",
+  "updatedAt": "2026-07-24T15:46:02.884Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "6ccb4823cb75",
+      "title": "Anone None",
+      "artist": "Tomo Katsurada & Jonny Nash",
+      "summary": "Tomoyuki Katsurada is a founding member of the now defunct Japanese rock band Kikagaku Moyo His latest is a dreamy collaboration with Scottish guitarist Jonny Nash, founder of Melody as Truth, an Amsterdam based record label that specializes in ambient projects. Today's Top Tune is one from their stellar new album At the Emerald Pool, and it's Today's Top Tune.",
+      "publishedAt": "2026-07-24T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/tomo-katsurada-jonny-nas-5b47c7",
+      "audioUrl": "./tracks/2026-07-24-6ccb4823cb75.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/tomo-katsurada-jonny-nas-5b47c7/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 45,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/tomo-katsurada-jonny-nas-5b47c7/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "9794c99b9a29",
       "title": "BODYSCANNER",
