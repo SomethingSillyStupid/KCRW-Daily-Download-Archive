@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-27T20:45:20.899Z",
+  "updatedAt": "2026-07-28T17:00:55.875Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "98be214ef112",
+      "title": "I Go Up, You Go Down",
+      "artist": "My Precious Bunny",
+      "summary": "My Precious Bunny is the solo project of Lily Wolter of the brother sister indie rock duo Penelope Isles. Originally from The Isle of Man, an island situated midway between the Irish and English coasts, Wolter delivers a debut album that exhilarates - caught between joy and melancholy. Our favorite is &#34;I Go Up, You Go Down&#34; and it's Today's Top Tune.",
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/my-precious-bunny-i-go-u-497fb0",
+      "audioUrl": "./tracks/2026-07-28-98be214ef112.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/my-precious-bunny-i-go-u-497fb0/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 47,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/my-precious-bunny-i-go-u-497fb0/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "edc5b048a6ce",
       "title": "Mountain Stream",
