@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-28T21:33:54.198Z",
+  "updatedAt": "2026-07-29T15:59:21.122Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "0588eee53c35",
+      "title": "Sick of the Times",
+      "artist": "Thao",
+      "summary": "Longtime KCRW favorite Thao's new single is a song for NOW, a protest anthem written for - as she says - &#34;political rallies, grass roots organizing events&mdash;anything that can help us emotionally prepare to activate and to stay politically engaged at all levels, but especially at the local level.&#34; The song is called &#34;Sick of the Times' and features guest appearances by Tune-Yards and The Linda Lindas, and it's Today's Top Tune.",
+      "publishedAt": "2026-07-29T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/thao-sick-of-the-times",
+      "audioUrl": "./tracks/2026-07-29-0588eee53c35.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/thao-sick-of-the-times/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 48,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/thao-sick-of-the-times/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "98be214ef112",
       "title": "I Go Up, You Go Down",
