@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-29T21:14:04.372Z",
+  "updatedAt": "2026-07-30T16:01:48.103Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "2bbe178e4cc0",
+      "title": "Keep It To Yourself",
+      "artist": "Love Spells",
+      "summary": "Houston native Sir Taegen Harris was seemingly a lovesick kid at every turn. His friends chided him about it so when it came time to pick an artist name, Love Spells rang true. Battling homelessness in his late teens, he powered his artistic conviction into collabs with Kevin Abstract of Brockhampton fame. Today's Top Tune is &#34;Keep It to Yourself&#34; from Love Spells' debut album Love is the Law -- which is out this week.",
+      "publishedAt": "2026-07-30T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/love-spells-keep-it-to-y-83df1d",
+      "audioUrl": "./tracks/2026-07-30-2bbe178e4cc0.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/love-spells-keep-it-to-y-83df1d/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 49,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/love-spells-keep-it-to-y-83df1d/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "0588eee53c35",
       "title": "Sick of the Times",
