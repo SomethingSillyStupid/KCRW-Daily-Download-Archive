@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-30T21:34:13.676Z",
+  "updatedAt": "2026-07-31T16:14:05.580Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "cc17d652ee4c",
+      "title": "Sargasso Sea",
+      "artist": "The Durutti Column",
+      "summary": "All the way back in 1980, the very first album from The Durutti Column was called The Return of The Durutti Column. But today we celebrate the actual return of The Durutti Column with their first album in more than 15 years. Central to the project is the fluid guitar work of founding member Vini Reilly, and one of the standouts is &#34;Sargasso Sea&#34;, a song featuring guest vocalist Caoilfhionn Rose, and it's Today's Top Tune.",
+      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/the-durutti-column-sarga-280a0d",
+      "audioUrl": "./tracks/2026-07-31-cc17d652ee4c.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/the-durutti-column-sarga-280a0d/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 50,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/the-durutti-column-sarga-280a0d/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "2bbe178e4cc0",
       "title": "Keep It To Yourself",
