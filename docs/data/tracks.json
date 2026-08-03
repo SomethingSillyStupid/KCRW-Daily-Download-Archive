@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-07-31T21:30:28.246Z",
+  "updatedAt": "2026-08-03T16:42:09.576Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "4ce611a6f152",
+      "title": "Afternoon Dub 1",
+      "artist": "Exotic Gardens",
+      "summary": "Exotic Gardens is the alias of Aaron Coyes, one half of the husband-wife duo Peaking Lights. Aaron points to the innovative work of Lee &#34;Scratch&#34; Perry as a central inspiration for his latest release, the vinyl-only collection he calls Afternoon Dubs. The album's spellbinding opening track is Today's Top Tune.&nbsp;",
+      "publishedAt": "2026-08-03T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/exotic-gardens-afternoon-bf88f9",
+      "audioUrl": "./tracks/2026-08-03-4ce611a6f152.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/exotic-gardens-afternoon-bf88f9/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 51,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/exotic-gardens-afternoon-bf88f9/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "cc17d652ee4c",
       "title": "Sargasso Sea",
