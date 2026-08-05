@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-04T20:45:28.706Z",
+  "updatedAt": "2026-08-05T16:13:37.173Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "a0a5bdf2954b",
+      "title": "Why",
+      "artist": "René Aubry",
+      "summary": "KCRW has championed French composer Ren&eacute; Aubry for more than 40 years. Along the way, his work has been featured in dance, stage and film works by Pina Bausch, Carolyn Carlson, and Wim Wenders. Today we bring you &#34;Why&#34;, from his upcoming fall release Midnight Souls, and it's Today's Top Tune.",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/rene-aubry-why",
+      "audioUrl": "./tracks/2026-08-05-a0a5bdf2954b.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/rene-aubry-why/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 53,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/rene-aubry-why/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "552eff6bfd18",
       "title": "Licik (Tribute) - Love Injection Edit",
