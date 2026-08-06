@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-05T21:35:16.144Z",
+  "updatedAt": "2026-08-06T22:16:41.167Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "b55907e2bef9",
+      "title": "Kind",
+      "artist": "Joy Oladokun",
+      "summary": "We can't say enough good things about Joy Oladokun. The Nashville based musician's commanding confidence and compelling turn of phrase have truly established her as a songwriter's songwriter. We're excited for her new album Hope is a Heavy Thing, due September 25th, but for now we have the lead single called &#34;Kind&#34;, and it's Today's Top Tune.",
+      "publishedAt": "2026-08-06T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/joy-oladokun-kind",
+      "audioUrl": "./tracks/2026-08-06-b55907e2bef9.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/joy-oladokun-kind/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 54,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/joy-oladokun-kind/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "a0a5bdf2954b",
       "title": "Why",
