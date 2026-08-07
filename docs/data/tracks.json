@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-07T00:17:25.639Z",
+  "updatedAt": "2026-08-07T15:10:50.489Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "91e16a444e1a",
+      "title": "Summer Nights",
+      "artist": "Dana and Alden",
+      "summary": "Portland based brothers Dana and Alden get next level on their new album project Papa's Boat, a loving tribute to their grandfather that features guest appearances by Marcos Valle, Mei Semones, Melanie Charles and more. The album's out August 14th, and our first taste is called &#34;Summer Nights&#34;.",
+      "publishedAt": "2026-08-07T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/dana-and-alden-summer-ni-92f0da",
+      "audioUrl": "./tracks/2026-08-07-91e16a444e1a.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/dana-and-alden-summer-ni-92f0da/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 55,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/dana-and-alden-summer-ni-92f0da/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "b55907e2bef9",
       "title": "Kind",
