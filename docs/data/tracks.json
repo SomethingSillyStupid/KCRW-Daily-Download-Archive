@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-07T21:01:10.571Z",
+  "updatedAt": "2026-08-10T15:19:01.871Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "6d32fa129cc7",
+      "title": "No One Else's Pen",
+      "artist": "Luluc",
+      "summary": "Australian folk duo Luluc have just graced us with their new album, Sweet Thief, the title of which is a nod to Shakespeare's Sonnet 35 - a complex exploration of forgiveness. Pastel hues color this minimalist and sure-footed collection. One of our favorites is &#34;No One Else's Pen&#34; and it's Today's Top Tune.",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/luluc-no-one-else-s-pen",
+      "audioUrl": "./tracks/2026-08-10-6d32fa129cc7.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/luluc-no-one-else-s-pen/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 56,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/luluc-no-one-else-s-pen/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "91e16a444e1a",
       "title": "Summer Nights",
