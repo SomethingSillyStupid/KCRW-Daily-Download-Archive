@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-11T21:06:29.119Z",
+  "updatedAt": "2026-08-12T15:16:36.075Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "3a20b9e460a9",
+      "title": "Denisse",
+      "artist": "Girl Ultra",
+      "summary": "Mexico City's Girl Ultra is at her most melodic on the new single &#34;Denisse&#34;, an ebullient summer jam about letting go. It's the lead track from her upcoming album project RRRomeo, which has her collaborating with Buscabulla, Empress Of, and Chromeo. It's a perfect summer song and it's Today's Top Tune.",
+      "publishedAt": "2026-08-12T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/girl-ultra-denisse",
+      "audioUrl": "./tracks/2026-08-12-3a20b9e460a9.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/girl-ultra-denisse/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 58,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/girl-ultra-denisse/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "640a2feaeff0",
       "title": "Helado Tropical",
