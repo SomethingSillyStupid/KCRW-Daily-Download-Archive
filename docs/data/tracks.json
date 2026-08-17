@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-14T20:48:01.209Z",
+  "updatedAt": "2026-08-17T14:46:51.472Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "75059c58a395",
+      "title": "Your Whisper",
+      "artist": "Andrew Sa",
+      "summary": "Chicago's Andrew Sa, aka Lonesome Andrew, blends classic country crooner leanings with sincere queer storytelling. His debut album American Rough takes inspiration from the writings of Walt Whitman and Quentin Crisp. Andrew is on the bill for the next School Night, Thursday, August 20th at The Airliner, Los Angeles, and his song &#34;Your Whisper&#34; is Today's Top Tune.",
+      "publishedAt": "2026-08-17T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/andrew-sa-your-whisper",
+      "audioUrl": "./tracks/2026-08-17-75059c58a395.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/andrew-sa-your-whisper/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 61,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/andrew-sa-your-whisper/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "1390dfe08ebb",
       "title": "Come Back to Me",
