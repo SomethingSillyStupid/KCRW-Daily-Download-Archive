@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-17T20:46:45.946Z",
+  "updatedAt": "2026-08-18T14:55:04.263Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "b4e0ebbc4ac7",
+      "title": "I Can't Wait",
+      "artist": "Phoebe Bridgers",
+      "summary": "Hometown favorite Phoebe Bridgers' much-anticipated third solo album, Lost Weekend, is her first in six years. Dedicated to her late father, the album features stellar guest collaborators including Tony Berg, Blake Mills, Ethan Gruska, Jack Antonoff, members of boygenius and Nickel Creek. One of our favorites is &#34;I Can't Wait&#34; and it's Today's Top Tune.",
+      "publishedAt": "2026-08-18T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/phoebe-bridgers-i-can-t-067887",
+      "audioUrl": "./tracks/2026-08-18-b4e0ebbc4ac7.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/phoebe-bridgers-i-can-t-067887/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 62,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/phoebe-bridgers-i-can-t-067887/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "75059c58a395",
       "title": "Your Whisper",
