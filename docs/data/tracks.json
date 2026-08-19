@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-18T20:43:48.980Z",
+  "updatedAt": "2026-08-19T14:55:00.741Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "a4938ac055f6",
+      "title": "Weather Me",
+      "artist": "Bodega",
+      "summary": "NYC quintet Bodega is having a great year, buoyed by the stellar singles we've heard from their upcoming album All Inside Aquarium. Often associated with post-punk, the band, led by Ben Hozie and Nikki Belfiglio, has evolved toward a warmer, more melodic sound that still rocks. &#34;Weather Me&#34; is the best one yet, produced by Matt Peel of Yard Act fame, and it's Today's Top Tune.&nbsp;",
+      "publishedAt": "2026-08-19T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/bodega-weather-me",
+      "audioUrl": "./tracks/2026-08-19-a4938ac055f6.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/bodega-weather-me/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 63,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/bodega-weather-me/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "b4e0ebbc4ac7",
       "title": "I Can't Wait",
