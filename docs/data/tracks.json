@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-19T22:49:23.245Z",
+  "updatedAt": "2026-08-20T14:57:06.932Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "0785a09aa0c6",
+      "title": "White Lightning",
+      "artist": "Ryan Beatty",
+      "summary": "California native Ryan Beatty first gained attention from his YouTube covers before reinventing himself with the intimate, genre-blurring sound of 2018&rsquo;s Boy in Jeans - a powerful exploration of youth and sexual identity. On his latest album, Sweet Fortune, the songs are again brazenly honest and deeply personal. Today's Top Tune is &#34;White Lightning&#34;.",
+      "publishedAt": "2026-08-20T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/ryan-beatty-white-lightn-5d9dba",
+      "audioUrl": "./tracks/2026-08-20-0785a09aa0c6.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/ryan-beatty-white-lightn-5d9dba/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 64,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/ryan-beatty-white-lightn-5d9dba/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "a4938ac055f6",
       "title": "Weather Me",
