@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-21T20:42:56.397Z",
+  "updatedAt": "2026-08-24T15:02:52.001Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "4ba9d4274caf",
+      "title": "Bounty Hunter",
+      "artist": "Anish Kumar",
+      "summary": "Anish Kumar grew up in the North of England loving Bollywood hits and the edgy UK club scene. His rise from DIY producer to acclaimed DJ happened while still in school, fueled by his super eclectic dance tunes that blended cool jazz, vintage country and Spaghetti Western cues. His latest, AK CUTS Vol. 4, features &#34;Bounty Hunter&#34;, and it's Today's Top Tune.",
+      "publishedAt": "2026-08-24T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/anish-kumar-bounty-hunte-be9a7e",
+      "audioUrl": "./tracks/2026-08-24-4ba9d4274caf.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/anish-kumar-bounty-hunte-be9a7e/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 66,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/anish-kumar-bounty-hunte-be9a7e/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "40610e6bdfdf",
       "title": "Something to Remember Me By",
