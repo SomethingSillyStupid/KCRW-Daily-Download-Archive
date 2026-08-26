@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-25T20:48:35.062Z",
+  "updatedAt": "2026-08-26T15:54:43.799Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "f6f179f19334",
+      "title": "Take Me Out To The Disco",
+      "artist": "Gus Dapperton",
+      "summary": "Growing up in Warwick, New York, Gus Dapperton turned his childhood obsession with music, characters and self-expression into a singular artistic world. Early excursions into hip-hop gave way to the more dreamy, pop-leaning sound that became his signature. His latest, &ldquo;Take Me Out To The Disco,&rdquo; will move you to the dance floor, and it's Today's Top Tune.",
+      "publishedAt": "2026-08-26T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/gus-dapperton-take-me-ou-bd03bd",
+      "audioUrl": "./tracks/2026-08-26-f6f179f19334.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/gus-dapperton-take-me-ou-bd03bd/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 68,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/gus-dapperton-take-me-ou-bd03bd/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "3d0851d1ca0e",
       "title": "The Water (Sasha Remix)",
