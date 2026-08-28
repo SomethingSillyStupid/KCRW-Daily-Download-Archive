@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-27T23:50:31.022Z",
+  "updatedAt": "2026-08-28T22:17:07.082Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "79b4f4917305",
+      "title": "Rocinha",
+      "artist": "Wyclef Jean",
+      "summary": "Wyclef Jean rose to fame in the hip-hop collective Fugees, named for his Haitian refugee background. He's had a wildly successful solo career ever since, and his sound remains forever cool. He's just released his first-ever jazz album, dedicated to Quincy Jones. This track is inspired by the spirit of Brazil&rsquo;s most iconic favela and it's Today's Top Tune.",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/wyclef-jean-rocinha",
+      "audioUrl": "./tracks/2026-08-28-79b4f4917305.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/wyclef-jean-rocinha/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 70,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/wyclef-jean-rocinha/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "1ac371b5fd67",
       "title": "Dancing With the Unknown",
