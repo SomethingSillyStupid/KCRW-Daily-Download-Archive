@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-31T23:53:25.610Z",
+  "updatedAt": "2026-09-01T17:52:16.738Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "7ef2b4d5322e",
+      "title": "The Lightness",
+      "artist": "Memorial",
+      "summary": "The Brighton-based folk duo Memorial is Jack Watts and Oliver Spalding. Recorded live in the dead of winter at composer &Oacute;lafur Arnalds' studio in the heart of Reykjav&iacute;k, this gently beautiful piece turns up as the closing track on the band's new album Jera, and is co-written by pianist and KCRW favorite Dustin O&rsquo;Halloran.",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/memorial-the-lightness",
+      "audioUrl": "./tracks/2026-09-01-7ef2b4d5322e.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/memorial-the-lightness/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 72,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/memorial-the-lightness/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "07e4fe050031",
       "title": "What Do We Do It For",
