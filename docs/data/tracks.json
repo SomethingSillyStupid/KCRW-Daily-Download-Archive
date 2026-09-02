@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-01T21:04:53.384Z",
+  "updatedAt": "2026-09-02T17:57:04.662Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "ca9a38fed4b9",
+      "title": "Sensational",
+      "artist": "Wishy",
+      "summary": "Indianapolis five-piece Wishy bring welcome Breeders-style '90s grunge to their shimmering latest single, a banger called &#34;Sensational&#34;. Shredding guitars, jubilant vocals, and even a cowbell take the front seat on the way to a very satisfying chorus. It's all just a taste of what's to come from the band's new album, Nature&rsquo;s Pill - and it's Today's Top Tune.",
+      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/wishy-sensational",
+      "audioUrl": "./tracks/2026-09-02-ca9a38fed4b9.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/wishy-sensational/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 73,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/wishy-sensational/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "7ef2b4d5322e",
       "title": "The Lightness",
