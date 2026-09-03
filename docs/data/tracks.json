@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-02T21:06:39.988Z",
+  "updatedAt": "2026-09-03T17:53:56.594Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "352bab5fdd64",
+      "title": "Things Take Time",
+      "artist": "Gang of Youths",
+      "summary": "This new song from Australia's Gang of Youths is currently in heavy rotation at the station. Reassuring from the first note, &#34;Things Take Time&#34; is a dreamy amalgam of timeless production and soaring vocals that give us Todd Rundgren vibes. It's a feel-good piece full of rich, melodic optimism that makes us swoon, and it's Today's Top Tune.&nbsp;",
+      "publishedAt": "2026-09-03T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/gang-of-youths-things-ta-7a1218",
+      "audioUrl": "./tracks/2026-09-03-352bab5fdd64.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/gang-of-youths-things-ta-7a1218/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 74,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/gang-of-youths-things-ta-7a1218/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "ca9a38fed4b9",
       "title": "Sensational",
