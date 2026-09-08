@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-07T22:03:16.862Z",
+  "updatedAt": "2026-09-08T17:57:00.424Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "8a402fa508bf",
+      "title": "Down Home",
+      "artist": "Karate Boogaloo",
+      "summary": "The Melbourne instrumental funk collective Karate Boogaloo draws their inspiration from the timeless tunes of Booker T. & the M.G.'s, The Meters, and the J.B.'s, among others. The quartet's latest single, out today, is Down Home, a sultry mid-tempo, bass-driven excursion and it's Today's Top Tune.&nbsp;",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/karate-boogaloo-down-hom-a678aa",
+      "audioUrl": "./tracks/2026-09-08-8a402fa508bf.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/karate-boogaloo-down-hom-a678aa/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 77,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/karate-boogaloo-down-hom-a678aa/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "bbac3dc48fb5",
       "title": "Five Hands Pt. 1",
