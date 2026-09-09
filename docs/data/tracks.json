@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-08T21:12:45.860Z",
+  "updatedAt": "2026-09-09T19:16:48.681Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "71309322670e",
+      "title": "New Generation",
+      "artist": "Steady Holiday",
+      "summary": "Beloved LA singer-songwriter Dre Babinski, aka Steady Holiday, returns with a breezy meditation on the whiplash of new parenthood. Written after becoming a mother, this new single balances tender hopes for a safe world for her child with the exhaustion and upheaval of letting go of her old self. It's a taste of her new album It's Your Trip, due Nov. 6th.&nbsp;",
+      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/steady-holiday-new-gener-fcbcd5",
+      "audioUrl": "./tracks/2026-09-09-71309322670e.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/steady-holiday-new-gener-fcbcd5/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 78,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/steady-holiday-new-gener-fcbcd5/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "8a402fa508bf",
       "title": "Down Home",
