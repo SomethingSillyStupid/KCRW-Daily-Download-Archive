@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-09T20:59:27.331Z",
+  "updatedAt": "2026-09-10T17:44:16.556Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "ff63ac76f8b8",
+      "title": "Mangoes",
+      "artist": "Babe Rainbow",
+      "summary": "Australian psych-surfers Babe Rainbow blend &rsquo;60s psychedelia and &rsquo;70s surf-pop with folk, funk, dub and global grooves. Formed in Byron Bay in 2015, the trio has built a cult following through their playful, sun-soaked sound. We're loving &ldquo;Mangoes,&rdquo; from the new album Acid and Honey, with its lo-fi leanings and funky drive.&nbsp;",
+      "publishedAt": "2026-09-10T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/babe-rainbow-mangoes",
+      "audioUrl": "./tracks/2026-09-10-ff63ac76f8b8.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/babe-rainbow-mangoes/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 79,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/babe-rainbow-mangoes/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "71309322670e",
       "title": "New Generation",
