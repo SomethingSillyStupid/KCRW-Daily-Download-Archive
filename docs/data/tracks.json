@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-11T21:00:53.926Z",
+  "updatedAt": "2026-09-14T19:25:24.991Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "0c3afcdc57e7",
+      "title": "Figli",
+      "artist": "Carl Stone",
+      "summary": "Orchestrator and arranger Arthur Fischl reimagines Carl Stone's glitchy sonic odyssey as an exuberant orchestral work. Created in close collaboration with the composer and performed by the Fischl Fresser Ensemble, the new &#34;Figli&#34; gives us a playful collision of big-band, classical and avant-garde textures, while retaining Stone's inimitable style.",
+      "publishedAt": "2026-09-14T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/carl-stone-figli",
+      "audioUrl": "./tracks/2026-09-14-0c3afcdc57e7.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/carl-stone-figli/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 81,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/carl-stone-figli/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "98da55232217",
       "title": "&#34;M&#34; is for Mandala",
