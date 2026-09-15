@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-14T23:10:27.751Z",
+  "updatedAt": "2026-09-15T18:14:45.682Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "8b166927b81d",
+      "title": "Lost Child",
+      "artist": "Jim James",
+      "summary": "On his fifth solo album, his first in eight years, My Morning Jacket's Jim James builds &ldquo;Lost Child&rdquo; around a loop of Maxine Brown&rsquo;s 1964 take on Gerry Goffin and Carole King&rsquo;s &ldquo;Oh No Not My Baby.&rdquo; Soulful and gently shuffling, the song finds James reflecting on feeling lost in a fractured world and searching for a way back to hope.&nbsp;",
+      "publishedAt": "2026-09-15T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/jim-james-lost-child",
+      "audioUrl": "./tracks/2026-09-15-8b166927b81d.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/jim-james-lost-child/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 82,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/jim-james-lost-child/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "0c3afcdc57e7",
       "title": "Figli",
