@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-15T21:24:56.262Z",
+  "updatedAt": "2026-09-16T18:13:53.961Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "59936509d9e7",
+      "title": "Khayal",
+      "artist": "Kazdoura",
+      "summary": "Toronto's Kazdoura fuse Syrian and Lebanese musical traditions with psych rock, funk, soul and jazz. Vocalist Leen Hamo is a Syrian war refugee, which explains why their songs explore cultural migration, memory and the feeling of being caught between two places. Their Juno-winning debut Ghoyoum features our favorite song Khayal, and it's Today's Top Tune.&nbsp;",
+      "publishedAt": "2026-09-16T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kazdoura-khayal",
+      "audioUrl": "./tracks/2026-09-16-59936509d9e7.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kazdoura-khayal/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 83,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/kazdoura-khayal/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "8b166927b81d",
       "title": "Lost Child",
