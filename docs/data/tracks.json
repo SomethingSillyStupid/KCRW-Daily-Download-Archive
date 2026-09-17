@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-16T21:21:50.754Z",
+  "updatedAt": "2026-09-17T18:17:39.224Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "ac0971fa47bd",
+      "title": "The Last Season of America",
+      "artist": "Seasick Steve",
+      "summary": "Now 75 years old, American blues singer Seasick Steve has teamed up with Grammy-winning producer Martin Terefe for his latest album, &ldquo;The Last Season of America&rdquo;. The title song was born out of a 2024 road trip across America, where Steve found himself confronting poverty, division and a country he fears is losing its way, and it's Today's Top Tune.",
+      "publishedAt": "2026-09-17T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/seasick-steve-the-last-s-9e0671",
+      "audioUrl": "./tracks/2026-09-17-ac0971fa47bd.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/seasick-steve-the-last-s-9e0671/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 84,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/seasick-steve-the-last-s-9e0671/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "59936509d9e7",
       "title": "Khayal",
