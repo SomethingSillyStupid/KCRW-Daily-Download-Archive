@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-18T20:57:16.572Z",
+  "updatedAt": "2026-09-21T19:31:46.624Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "854bde299e25",
+      "title": "Cue the Symphony",
+      "artist": "Nicole Atkins",
+      "summary": "New Jersey-born, Nashville-based country crooner Nicole Atkins returns with Drama, her seventh album and first all-new full-length in over six years. A standout is &ldquo;Cue the Symphony,&rdquo; featuring guest vocals from longtime friend Chris Isaak. Atkins calls the song the &#34;sadness but sexy&#34; centerpiece of the new album, and it's Today's Top Tune.&nbsp;",
+      "publishedAt": "2026-09-21T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/nicole-atkins-cue-the-sy-dbef0f",
+      "audioUrl": "./tracks/2026-09-21-854bde299e25.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/nicole-atkins-cue-the-sy-dbef0f/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 86,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/nicole-atkins-cue-the-sy-dbef0f/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "809d263e00da",
       "title": "Setting Sun",
