@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-21T23:19:54.504Z",
+  "updatedAt": "2026-09-22T18:08:33.287Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "315fd1df000a",
+      "title": "FIGURE IT OUT",
+      "artist": "ZEP",
+      "summary": "Dutch multi-instrumentalist ZEP channels punk, alt-rock, hip-hop and electronic music into a restless, genre-blurring sound. Raised around live music and originally trained as a drummer, he brings raw energy and a mischievous edge to &ldquo;FIGURE IT OUT,&rdquo; a bass-heavy blast about trying to make sense of a relationship that&rsquo;s veered dangerously off course.&nbsp;",
+      "publishedAt": "2026-09-22T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/zep-figure-it-out",
+      "audioUrl": "./tracks/2026-09-22-315fd1df000a.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/zep-figure-it-out/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 87,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/zep-figure-it-out/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "854bde299e25",
       "title": "Cue the Symphony",
