@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-22T21:23:15.776Z",
+  "updatedAt": "2026-09-23T18:26:03.037Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "105b143b001b",
+      "title": "Tuoi occhi",
+      "artist": "La Vacanza",
+      "summary": "La Vacanza, which translates to &#34;The Vacation&#34;, is an Italian pop band based in Bergen, Norway. Led by Sofia Guidi&rsquo;s dreamy vocals, their debut EP In Riva Al Mare, Italian for &#34;by the sea&#34;, is exquisitely produced and getting a lot of love at KCRW. One of our favorites, &#34;Tuoi Occhi&#34;, is about getting lost in your loved one's eyes.&nbsp;",
+      "publishedAt": "2026-09-23T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/la-vacanza-tuoi-occhi",
+      "audioUrl": "./tracks/2026-09-23-105b143b001b.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/la-vacanza-tuoi-occhi/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 88,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/la-vacanza-tuoi-occhi/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "315fd1df000a",
       "title": "FIGURE IT OUT",
