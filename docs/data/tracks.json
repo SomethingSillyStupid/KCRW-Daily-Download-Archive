@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-24T22:27:40.327Z",
+  "updatedAt": "2026-09-25T18:40:46.418Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "7f256d2fb7c1",
+      "title": "Syllable Salad",
+      "artist": "Benny Sings",
+      "summary": "Dutch artist and producer Benny Sings studied sonology at The Hague&rsquo;s Royal Conservatory before becoming a cult figure in the indie pop world. An early win was co-writing Rex Orange County&rsquo;s &ldquo;Loving Is Easy&rdquo;&mdash;a song he initially thought was so bad he shouldn't release it. His new album, 22 Durnham Dew, is out today and our favorite is &#34;Syllable Salad&#34;.",
+      "publishedAt": "2026-09-25T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/benny-sings-syllable-sal-d940c2",
+      "audioUrl": "./tracks/2026-09-25-7f256d2fb7c1.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/benny-sings-syllable-sal-d940c2/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 90,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/benny-sings-syllable-sal-d940c2/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "c749d387f809",
       "title": "Selah",
