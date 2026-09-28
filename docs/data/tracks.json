@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-25T22:24:50.998Z",
+  "updatedAt": "2026-09-28T20:35:33.246Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "b6a9ce256933",
+      "title": "A Cove",
+      "artist": "Sofi Paez",
+      "summary": "Costa Rican pianist, singer and composer Sofi Paez creates intimate, cinematic music where modern classical meets songwriting. Now based in Berlin, she was the first artist signed to &Oacute;lafur Arnalds&rsquo; OPIA Community. Her debut album, Silent Stories, transforms themes of memory, loss and belonging into emotionally resonant piano-led songs.&nbsp;",
+      "publishedAt": "2026-09-28T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/sofi-paez-a-cove",
+      "audioUrl": "./tracks/2026-09-28-b6a9ce256933.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/sofi-paez-a-cove/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 91,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/sofi-paez-a-cove/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "7f256d2fb7c1",
       "title": "Syllable Salad",
