@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-29T23:45:46.064Z",
+  "updatedAt": "2026-09-30T19:36:48.844Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "dbfeee38b77c",
+      "title": "La Nueva Violencia",
+      "artist": "Dillom",
+      "summary": "The innovative Argentine rapper Dillom came up in Buenos Aires' trap scene, but on his latest, he pushes further into post-punk, new wave and electronic rock. The new album is called La Nueva Violencia, or The New Violence. The title track is a two-minute controlled explosion&mdash;frantic and noisy, setting the album&rsquo;s chaotic tone, and it's Today's Top Tune.&nbsp;",
+      "publishedAt": "2026-09-30T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/dillom-la-nueva-violenci-5d96aa",
+      "audioUrl": "./tracks/2026-09-30-dbfeee38b77c.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/dillom-la-nueva-violenci-5d96aa/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 93,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/dillom-la-nueva-violenci-5d96aa/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "3e371d9097e7",
       "title": "Trust",
