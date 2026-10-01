@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-09-30T23:54:30.013Z",
+  "updatedAt": "2026-10-01T19:35:11.281Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "1653ea867a83",
+      "title": "No Thank You, I Love You, Goodbye",
+      "artist": "Lucy Dacus",
+      "summary": "The latest from Lucy Dacus is &ldquo;No Thank You, I Love You, Goodbye&rdquo;, a song that she wrote 10 years ago, originally set to be part of her debut album, &#34;No Burden&#34;. Although it never made it onto the final, it's been a favorite at live shows. Now it's available for the first time, and set to be part of the 10th anniversary vinyl reissue, due December 4th.",
+      "publishedAt": "2026-10-01T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/lucy-dacus-no-thank-you-248db1",
+      "audioUrl": "./tracks/2026-10-01-1653ea867a83.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/lucy-dacus-no-thank-you-248db1/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 94,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/lucy-dacus-no-thank-you-248db1/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "dbfeee38b77c",
       "title": "La Nueva Violencia",
