@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-02T23:50:01.616Z",
+  "updatedAt": "2026-10-05T21:31:28.496Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "a0c6ac632b96",
+      "title": "Dear Bobby",
+      "artist": "Kate Bollinger",
+      "summary": "Kate Bollinger's Shop Girl is a set of &#34;songs from an imagined musical&#34;. Smartly produced by Jonathan Rado (Foxygen, Weyes Blood, Tyler Ballgame), the 5-song EP was inspired by the '70s kitsch of Lynsey De Paul, Kate Bush and a love for the 2006 rock opera Ribbons of War by the Philadelphia band The Extraordinaires, a favorite of Kate's while growing up.",
+      "publishedAt": "2026-10-05T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kate-bollinger-dear-bobb-49eaa1",
+      "audioUrl": "./tracks/2026-10-05-a0c6ac632b96.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kate-bollinger-dear-bobb-49eaa1/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 96,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/kate-bollinger-dear-bobb-49eaa1/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "02958e38a2e2",
       "title": "Viento De Lluvia",
