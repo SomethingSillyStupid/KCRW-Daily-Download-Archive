@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-06T23:51:47.918Z",
+  "updatedAt": "2026-10-08T02:02:14.916Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "14f9bcbff7b5",
+      "title": "I Was Stone",
+      "artist": "SYML",
+      "summary": "SYML is the Welsh word for &#34;simple&#34;, but it's also the solo project of Seattle musician and producer Brian Fennell, whose music explores the instincts that draw us toward sanctuary: sometimes it's a place, and sometimes it's a person. His latest is &#34;I Was Stone&#34;, a swirling, stark and emotional contemplation of a love lost.",
+      "publishedAt": "2026-10-07T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/syml-i-was-stone",
+      "audioUrl": "./tracks/2026-10-07-14f9bcbff7b5.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/syml-i-was-stone/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 98,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/syml-i-was-stone/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "ab0971fe1970",
       "title": "The Meaning of Flowers",
