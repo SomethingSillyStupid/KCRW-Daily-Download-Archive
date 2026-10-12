@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-10T00:04:39.124Z",
+  "updatedAt": "2026-10-12T22:09:59.528Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "6218b2b8d726",
+      "title": "The Shadow Of The Killer",
+      "artist": "Andrea Bejar",
+      "summary": "Originally from Cuernavaca, Mexico and now based in Los Angeles, Andrea Bejar grew up singing in her native language and her adopted language, English. In her late teens, as she began writing her own songs, she drew inspiration from Natalia Lafourcade, Phoebe Bridgers and Fleetwood Mac, among others. Her debut album's most haunting track is Today's Top Tune.",
+      "publishedAt": "2026-10-12T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/andrea-bejar-the-shadow-2450b6",
+      "audioUrl": "./tracks/2026-10-12-6218b2b8d726.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/andrea-bejar-the-shadow-2450b6/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 101,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/andrea-bejar-the-shadow-2450b6/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "0a2e60c95b10",
       "title": "Heladas",
