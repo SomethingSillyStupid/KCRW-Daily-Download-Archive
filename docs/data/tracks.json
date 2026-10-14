@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-13T23:45:40.305Z",
+  "updatedAt": "2026-10-14T18:40:35.865Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "6be2aea728b8",
+      "title": "Crocodile Song",
+      "artist": "tickertape",
+      "summary": "Fronted by newcomer Joseph Ritchie, Brisbane, Australia's tickertape just dropped their debut EP, a 6-song collection exploring the highs and lows of navigating young adulthood. Our favorite is &#34;Crocodile Song&#34;, a jazzy, sunshine-soaked look at love-in-the-works, inspired by Brooklyn's Big Thief and Portuguese songwriter Bruno Pernadas.&nbsp;",
+      "publishedAt": "2026-10-14T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/tickertape-crocodile-son-29e61d",
+      "audioUrl": "./tracks/2026-10-14-6be2aea728b8.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/tickertape-crocodile-son-29e61d/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 103,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/tickertape-crocodile-son-29e61d/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "724d3782475f",
       "title": "Lovesick",
