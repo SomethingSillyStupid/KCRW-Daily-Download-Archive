@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-15T21:32:09.848Z",
+  "updatedAt": "2026-10-16T18:06:17.010Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "7d5c917a9964",
+      "title": "eyes of them all (demo)",
+      "artist": "Andy Shauf",
+      "summary": "Canadian singer-songwriter Andy Shauf is one of the greatest songwriters of his generation. His quietly devastating masterpiece album The Party gets a 10th Anniversary Edition treatment that's out today. An intricate portrait of socially awkward partygoers, the album is now expanded with nine bonus tracks bundled together as an EP called &#34;the afterparty&#34;.&nbsp;",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/andy-shauf-eyes-of-them-7061c4",
+      "audioUrl": "./tracks/2026-10-16-7d5c917a9964.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/andy-shauf-eyes-of-them-7061c4/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 105,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/andy-shauf-eyes-of-them-7061c4/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "474098ad5a9e",
       "title": "Oh, Lucy",
