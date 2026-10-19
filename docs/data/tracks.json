@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-16T21:14:35.239Z",
+  "updatedAt": "2026-10-19T19:59:26.337Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "7113dbf0ac60",
+      "title": "Todo Baila",
+      "artist": "Silvana Estrada",
+      "summary": "Mexico's Silvana Estrada is one of the most celebrated voices in Latin American music. Her song &ldquo;Todo Baila&rdquo;, written during the pandemic, is a luminous celebration of dancing through life&rsquo;s joys and sorrows. Featuring M. Ward on vocals and guitar, the song embraces the beauty of moving forward without leaving any part of ourselves behind.",
+      "publishedAt": "2026-10-19T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/silvana-estrada-todo-bai-4272cf",
+      "audioUrl": "./tracks/2026-10-19-7113dbf0ac60.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/silvana-estrada-todo-bai-4272cf/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 106,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/silvana-estrada-todo-bai-4272cf/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "7d5c917a9964",
       "title": "eyes of them all (demo)",
