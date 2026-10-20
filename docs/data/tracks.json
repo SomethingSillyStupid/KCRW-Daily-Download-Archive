@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-19T23:45:32.250Z",
+  "updatedAt": "2026-10-20T18:29:55.363Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "58cdbacf9556",
+      "title": "Hard Refresh",
+      "artist": "DJ_Dave",
+      "summary": "This LA-based experimental artist, producer and DJ redefines electronic music through live coding. DJ_Dave treats code as a creative instrument, bypassing traditional DAWs and MIDI controllers, manipulating musical patterns directly through code to trigger every sound and instrument in real time. Her latest is &#34;Hard Refresh&#34; and it's Today's Top Tune.",
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/dj_dave-hard-refresh",
+      "audioUrl": "./tracks/2026-10-20-58cdbacf9556.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/dj_dave-hard-refresh/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 107,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/dj_dave-hard-refresh/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "7113dbf0ac60",
       "title": "Todo Baila",
