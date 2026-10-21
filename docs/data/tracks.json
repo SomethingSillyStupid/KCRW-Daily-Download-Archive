@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-20T22:20:25.336Z",
+  "updatedAt": "2026-10-21T18:41:37.076Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "5ad77d71f104",
+      "title": "jazz sculpture",
+      "artist": "Ferdi",
+      "summary": "Ferdi is a French saxophonist and music producer now based in Brussels. On his new album, The Sound of Art, he reimagines jazz as a contemporary, free-flowing dialogue between musical traditions and other art forms. Blending jazz and classical training with adventurous collaborators, he pushes beyond convention while keeping the form alive with discovery.",
+      "publishedAt": "2026-10-21T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/ferdi-jazz-sculpture",
+      "audioUrl": "./tracks/2026-10-21-5ad77d71f104.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/ferdi-jazz-sculpture/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 108,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/ferdi-jazz-sculpture/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "58cdbacf9556",
       "title": "Hard Refresh",
