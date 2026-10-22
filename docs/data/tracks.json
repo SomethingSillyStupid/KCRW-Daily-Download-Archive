@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-21T22:24:19.466Z",
+  "updatedAt": "2026-10-22T18:35:08.857Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "dac3dedc4c35",
+      "title": "Laurel Canyon",
+      "artist": "Danielle Ponder",
+      "summary": "In 2022, at the age of 40, Danielle Ponder left her longtime job as a public defender to pursue a career in music. For her debut album, Some Of Us Are Brave, she poured her passion for social justice into her songs. The album established Danielle as one of the most commanding voices in contemporary music. Today, we spotlight a song from her new album.",
+      "publishedAt": "2026-10-22T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/danielle-ponder-laurel-c-024d16",
+      "audioUrl": "./tracks/2026-10-22-dac3dedc4c35.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/danielle-ponder-laurel-c-024d16/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 109,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/danielle-ponder-laurel-c-024d16/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "5ad77d71f104",
       "title": "jazz sculpture",
