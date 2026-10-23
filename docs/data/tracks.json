@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-22T22:22:39.532Z",
+  "updatedAt": "2026-10-23T18:24:26.562Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "9542739000ab",
+      "title": "Snakes",
+      "artist": "Fat Dog",
+      "summary": "South London seven-piece Fat Dog return with Cancel Me (I&rsquo;m Tired), a wild sophomore release that expands their electro-punk into rave bangers, bombastic strings, psychedelia and country-tinged detours. &ldquo;Snakes&rdquo; captures their unpredictable reinvention, swapping their usual club-fueled frenzy for cool Western whistling kitsch and unexpected tenderness.",
+      "publishedAt": "2026-10-23T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/fat-dog-snakes",
+      "audioUrl": "./tracks/2026-10-23-9542739000ab.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/fat-dog-snakes/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 110,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/fat-dog-snakes/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "dac3dedc4c35",
       "title": "Laurel Canyon",
