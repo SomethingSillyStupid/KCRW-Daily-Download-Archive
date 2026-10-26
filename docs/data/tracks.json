@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-23T22:40:55.020Z",
+  "updatedAt": "2026-10-26T19:59:03.648Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "59369563738a",
+      "title": "Tongue",
+      "artist": "Fontaines D.C.",
+      "summary": "On Fontaines D.C.&rsquo;s Dopamine Chamber, guitars hop in the backseat, allowing for a more synth-fueled, arena-sized sound. Produced by James Ford (Arctic Monkeys, Geese, Beth Gibbons) and powered by Grian Chatten&rsquo;s singular lyricism, the Dublin boys channel their fierce, poetic post-punkery and restless ambition into one of rock&rsquo;s most compelling sounds.",
+      "publishedAt": "2026-10-26T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/fontaines-d-c-tongue",
+      "audioUrl": "./tracks/2026-10-26-59369563738a.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/fontaines-d-c-tongue/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 111,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/fontaines-d-c-tongue/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "9542739000ab",
       "title": "Snakes",
