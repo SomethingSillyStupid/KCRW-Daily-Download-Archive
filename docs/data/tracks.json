@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-27T00:30:16.866Z",
+  "updatedAt": "2026-10-27T19:51:46.140Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "fe294b706b53",
+      "title": "Pamela",
+      "artist": "Payfone",
+      "summary": "The UK collective Payfone&mdash;Phil Passera, Jimmy Day and newcomer April Pittman&mdash;strike gold with &ldquo;Pamela,&rdquo; a standout from their new EP Lunch. A hypnotic, slow-burning groove with an understated sensuality, it evokes the cool, magnetic allure of early &rsquo;80s Grace Jones, while staking out a distinctive space all its own.&nbsp;",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/payfone-pamela",
+      "audioUrl": "./tracks/2026-10-27-fe294b706b53.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/payfone-pamela/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 112,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/payfone-pamela/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "59369563738a",
       "title": "Tongue",
