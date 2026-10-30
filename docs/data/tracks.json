@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-29T23:59:35.806Z",
+  "updatedAt": "2026-10-30T19:28:01.401Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "ab06a082d4d5",
+      "title": "Beh Jeh Xi",
+      "artist": "Dexter Story",
+      "summary": "On T&rsquo;som, his sixth album, Eritrean-American composer Dexter Story explores fasting as a path to spiritual renewal, weaving Horn of Africa traditions with Middle Eastern sounds and spiritual jazz. &ldquo;Beh Jeh Xi&rdquo; offers a window into this expansive vision, where cultural memory, devotion and musical experimentation converge.",
+      "publishedAt": "2026-10-30T07:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/dexter-story-beh-jeh-xi",
+      "audioUrl": "./tracks/2026-10-30-ab06a082d4d5.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/dexter-story-beh-jeh-xi/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 115,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/dexter-story-beh-jeh-xi/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "b3c9385b7b7c",
       "title": "Anatomy of a Murder",
