@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-10-30T23:51:46.107Z",
+  "updatedAt": "2026-11-02T22:17:02.616Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "cb7bf044e667",
+      "title": "Memories Linger",
+      "artist": "50/50",
+      "summary": "In the late '70s, British duo Richard Haines and David Cowles had a project called 50/50, but their recordings never really saw the light of day. Seattle-based label Light in the Attic is now releasing the band's debut album: a thoughtfully sequenced collection of 12 songs written over the course of their time together, and their debut single is Today's Top Tune.",
+      "publishedAt": "2026-11-02T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/50-50-memories-linger",
+      "audioUrl": "./tracks/2026-11-02-cb7bf044e667.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/50-50-memories-linger/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 116,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/50-50-memories-linger/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "ab06a082d4d5",
       "title": "Beh Jeh Xi",
