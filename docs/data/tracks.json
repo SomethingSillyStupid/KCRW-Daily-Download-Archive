@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-02T22:50:30.047Z",
+  "updatedAt": "2026-11-03T20:34:19.494Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "fca064119293",
+      "title": "Chance",
+      "artist": "Instupendo",
+      "summary": "Aidan Penn Peterson is the NYC-based, Grammy-nominated producer known as Instupendo. His richly textured electronic pieces always strike a warm balance between the introspective and the transportive. The Philadelphia native's newest single is called &#34;Chance&#34; and features delicate piano, swelling strings and luminous harmonies, and it's Today's Top Tune.&nbsp;",
+      "publishedAt": "2026-11-03T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/instupendo-chance",
+      "audioUrl": "./tracks/2026-11-03-fca064119293.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/instupendo-chance/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 117,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/instupendo-chance/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "cb7bf044e667",
       "title": "Memories Linger",
