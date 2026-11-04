@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-03T20:34:19.494Z",
+  "updatedAt": "2026-11-04T20:52:24.048Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "6d2a0ba3e06d",
+      "title": "Dream Dub",
+      "artist": "June McDoom",
+      "summary": "Raised on the edge of the Everglades, in a Jamaican household in South Florida, a young Alyssa McDoom adopted the stage name June as a way to honor her grandmother. Her father was a soundman and carpenter who built custom sound systems, filling their home with reggae and bass, and her grandfather was a Jamaican folk musician who gave her her first guitar.&nbsp;",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/june-mcdoom-dream-dub",
+      "audioUrl": "./tracks/2026-11-04-6d2a0ba3e06d.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/june-mcdoom-dream-dub/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 118,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/june-mcdoom-dream-dub/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "fca064119293",
       "title": "Chance",
