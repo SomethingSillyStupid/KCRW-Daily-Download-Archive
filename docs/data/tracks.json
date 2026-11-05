@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-04T20:52:24.048Z",
+  "updatedAt": "2026-11-05T21:07:17.697Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "3869df57a02b",
+      "title": "My Soul Is On Fire",
+      "artist": "Thomas Dybdahl",
+      "summary": "Norwegian singer-songwriter Thomas Dybdahl is a longtime KCRW favorite, and his latest album includes &ldquo;My Soul Is On Fire,&rdquo; a song that began life as a score piece for a film project. Inspired by a springtime road trip through Norway&rsquo;s lush highlands, Today's Top Tune finds beauty in nature, as if it were a glimpse of the divine in the world around us.&nbsp;",
+      "publishedAt": "2026-11-05T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/thomas-dybdahl-my-soul-i-ac66b8",
+      "audioUrl": "./tracks/2026-11-05-3869df57a02b.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/thomas-dybdahl-my-soul-i-ac66b8/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 119,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/thomas-dybdahl-my-soul-i-ac66b8/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "6d2a0ba3e06d",
       "title": "Dream Dub",
