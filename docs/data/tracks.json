@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-05T21:07:17.697Z",
+  "updatedAt": "2026-11-06T20:28:40.680Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "559b5eff7529",
+      "title": "La Nieve",
+      "artist": "Guitarricadelafuente",
+      "summary": "Guitarricadelafuente is the artistic moniker of Spanish actor and singer &Aacute;lvaro Lafuente Calvo, who sings and stars in the critically acclaimed film La Bola Negra, which is now in theaters and streams on Netflix starting December 2nd. The film's central song &#34;La Nieve&#34; is a hotly tipped contender for Best Original Song and it's Today's Top Tune.",
+      "publishedAt": "2026-11-06T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/guitarricadelafuente-la-cabdf9",
+      "audioUrl": "./tracks/2026-11-06-559b5eff7529.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/guitarricadelafuente-la-cabdf9/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 120,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/guitarricadelafuente-la-cabdf9/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "3869df57a02b",
       "title": "My Soul Is On Fire",
