@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-06T20:28:40.680Z",
+  "updatedAt": "2026-11-09T22:18:14.104Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "52e622dc4569",
+      "title": "If You Want Me To Say",
+      "artist": "LEENALCHI",
+      "summary": "From Seoul, South Korea, the band Leenalchi breathes new life into pansori, Korea's centuries-old storytelling tradition rooted in shamanism and the Joseon Dynasty. Reimagining epic vocal narratives through a collision of traditional Korean music, psychedelic pop, funk and new wave, the band creates a sound that's both ancient and contemporary.&nbsp;",
+      "publishedAt": "2026-11-09T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/leenalchi-if-you-want-me-409a5a",
+      "audioUrl": "./tracks/2026-11-09-52e622dc4569.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/leenalchi-if-you-want-me-409a5a/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 121,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/leenalchi-if-you-want-me-409a5a/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "559b5eff7529",
       "title": "La Nieve",
