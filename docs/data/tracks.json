@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-09T23:28:00.988Z",
+  "updatedAt": "2026-11-10T20:52:25.551Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "15119656f25c",
+      "title": "Me and You",
+      "artist": "Bonobo",
+      "summary": "Longtime KCRW favorite Bonobo, aka Simon Green, marks his 25th year in music with the new album, Distance in Static. Weaving Urdu and Japanese vocals, Iranian samples, and his always cool electronics, the album features cameos from Arooj Aftab, Joy Crookes and Nil&uuml;fer Yanya. His worldwide tour stops include shows at the Wiltern this Wednesday and Thursday.&nbsp;",
+      "publishedAt": "2026-11-10T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/bonobo-me-and-you",
+      "audioUrl": "./tracks/2026-11-10-15119656f25c.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/bonobo-me-and-you/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 122,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/bonobo-me-and-you/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "52e622dc4569",
       "title": "If You Want Me To Say",
