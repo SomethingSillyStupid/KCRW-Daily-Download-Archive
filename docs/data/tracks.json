@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-10T20:52:25.551Z",
+  "updatedAt": "2026-11-11T21:27:38.749Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "a3e38273a27d",
+      "title": "Life 1",
+      "artist": "Quadeca",
+      "summary": "Producer, rapper, singer and visual artist Quadeca moves between warped synths, booming 808s, flamenco-like guitars and unexpected digital textures on his album debut, Life 1. Shifting from art-pop and R&B to rap and folk, he explores love, grief and life's absurdities through intimate songwriting and restless, shape-shifting production.",
+      "publishedAt": "2026-11-11T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/quadeca-life-1",
+      "audioUrl": "./tracks/2026-11-11-a3e38273a27d.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/quadeca-life-1/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 123,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/quadeca-life-1/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "15119656f25c",
       "title": "Me and You",
