@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-11T21:27:38.749Z",
+  "updatedAt": "2026-11-12T21:30:07.687Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "e0df0e469e89",
+      "title": "Thank You",
+      "artist": "Worldpeace DMT",
+      "summary": "The London duo Worldpeace DMT is Leo Fincham and Rowan Miles, the latter of the band The Femcels. Earning critical acclaim for their debut album Stick Around For Tea, the duo blends '60s psychedelia, playful eccentricity and inventive pop-leaning production, all of which is evident on their song &ldquo;Thank You&rdquo;, which is Today's Top Tune.&nbsp;",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/worldpeace-dmt-thank-you",
+      "audioUrl": "./tracks/2026-11-12-e0df0e469e89.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/worldpeace-dmt-thank-you/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 124,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/worldpeace-dmt-thank-you/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "a3e38273a27d",
       "title": "Life 1",
