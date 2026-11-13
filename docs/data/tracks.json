@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-12T21:30:07.687Z",
+  "updatedAt": "2026-11-13T20:55:49.221Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "5d3aef8be0fb",
+      "title": "Moon Bright Rain",
+      "artist": "Victor Jones",
+      "summary": "Brooklyn's Victor Jones' debut is a cathartic exploration of grief that puts &#34;gates of heaven&#34; sounds against epic theatrical rock. Victor himself says, &#34;I wanted to approach the project more like a passionate celebratory sermon and less like a eulogy, deliver more bangers than ballads, and dance in the face of the album's potentially heavy subject matter.&#34;&nbsp;",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/victor-jones-moon-bright-4acd1b",
+      "audioUrl": "./tracks/2026-11-13-5d3aef8be0fb.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/victor-jones-moon-bright-4acd1b/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 125,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/victor-jones-moon-bright-4acd1b/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "e0df0e469e89",
       "title": "Thank You",
