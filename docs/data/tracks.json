@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-13T20:55:49.221Z",
+  "updatedAt": "2026-11-16T22:17:43.567Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "1a792aad2e8d",
+      "title": "Ne me quitte pas des yeux",
+      "artist": "Les Louanges",
+      "summary": "On Wednesday, November 18th, KCRW Presents School Night at the upcoming M for Montreal music conference in Montreal. Today's Top Tune is from the headliner of that night - Les Louanges. The Montreal-based artist gives us Twin Peaks vibes when he says &ldquo;Ne me quitte pas des yeux&rdquo;, or &#34;Don't Take Your Eyes Off Me&#34;.",
+      "publishedAt": "2026-11-16T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/les-louanges-ne-me-quitt-e67e0b",
+      "audioUrl": "./tracks/2026-11-16-1a792aad2e8d.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/les-louanges-ne-me-quitt-e67e0b/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 126,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/les-louanges-ne-me-quitt-e67e0b/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "5d3aef8be0fb",
       "title": "Moon Bright Rain",
