@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-16T23:25:30.331Z",
+  "updatedAt": "2026-11-17T22:17:23.371Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "45689e485022",
+      "title": "Benke",
+      "artist": "Mia Doi Todd",
+      "summary": "Mia Doi Todd teams up with the artist known as Particle Kid - that's Micah Nelson, son of Willie Nelson - to reimagine Milton Nascimento&rsquo;s song &ldquo;Benke&rdquo; as a way of honoring Brazil, the Amazon and the natural world. Recorded in Maui, the collaboration pairs zither, guitars and percussion in a call for peace, justice and environmental stewardship.",
+      "publishedAt": "2026-11-17T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/mia-doi-todd-benke",
+      "audioUrl": "./tracks/2026-11-17-45689e485022.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/mia-doi-todd-benke/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 127,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/mia-doi-todd-benke/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "1a792aad2e8d",
       "title": "Ne me quitte pas des yeux",
