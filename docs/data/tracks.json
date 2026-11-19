@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-18T22:00:38.147Z",
+  "updatedAt": "2026-11-19T22:21:38.492Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "b5931ebfb765",
+      "title": "Bugle Call",
+      "artist": "Cole Berliner",
+      "summary": "Today, we celebrate the release of Bay Area native, LA-based guitarist Cole Berliner's debut solo album, The Black Door. We had difficulty picking a favorite from this exquisite and varied collection of guitar-based instrumentals. Influences include traditionalists like Elizabeth Cotten and Chet Atkins, along with the modernists Bert Jansch and Marc Ribot.",
+      "publishedAt": "2026-11-19T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/cole-berliner-bugle-call",
+      "audioUrl": "./tracks/2026-11-19-b5931ebfb765.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/cole-berliner-bugle-call/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 129,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/cole-berliner-bugle-call/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "c46a8d3c28e7",
       "title": "Breathless",
