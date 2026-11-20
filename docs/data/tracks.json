@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-19T22:21:38.492Z",
+  "updatedAt": "2026-11-20T21:51:47.536Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "f35b84986974",
+      "title": "You and Me",
+      "artist": "Sylvie",
+      "summary": "Los Angeles songwriter Ben Schwab beautifully channels the golden glow of '60s and '70s folk-rock on New Season, the latest from his project Sylvie. The self-produced album is stunning throughout, and pairs lush, Laurel Canyon-inspired arrangements with intimate reflections on friendship, love and loss. Today's Top Tune is the song &#34;You and Me&#34;.&nbsp;",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/sylvie-you-and-me",
+      "audioUrl": "./tracks/2026-11-20-f35b84986974.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/sylvie-you-and-me/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 130,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/sylvie-you-and-me/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "b5931ebfb765",
       "title": "Bugle Call",
