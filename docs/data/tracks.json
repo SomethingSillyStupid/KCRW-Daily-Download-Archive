@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-24T01:42:59.323Z",
+  "updatedAt": "2026-11-24T22:16:40.303Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "e8c134b97dc2",
+      "title": "Only Love is Time",
+      "artist": "Kelcey Ayer",
+      "summary": "The bold next step in Local Natives co-founder Kelcey Ayer's solo career is &ldquo;Only Love Is Time,&rdquo; a self-produced, piano-led meditation on regret, restlessness and redemption. Blending atmospheric electronics, cello and hypnotic rhythms, it draws on the shadowy textures of '90s trip-hop while finding unexpected beauty in life's morning-after moments.&nbsp;",
+      "publishedAt": "2026-11-24T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/kelcey-ayer-only-love-is-506b96",
+      "audioUrl": "./tracks/2026-11-24-e8c134b97dc2.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/kelcey-ayer-only-love-is-506b96/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 132,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/kelcey-ayer-only-love-is-506b96/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "086679c6bf41",
       "title": "Say Less",
