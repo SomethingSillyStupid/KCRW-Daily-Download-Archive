@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-24T23:30:31.644Z",
+  "updatedAt": "2026-11-25T22:16:41.616Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "843ae5fc7f62",
+      "title": "FERAL CHILD ;-0",
+      "artist": "Saya Gray",
+      "summary": "The genre-defying musical wizard Saya Gray treats songwriting as an open-ended experiment, weaving left-field electronics, unconventional textures and melodic instincts into a world entirely her own. The Toronto native captures her restless creative impulses and fearless sonic curiosity on her latest EP, QWERTY III. Our favorite is &#34;FERAL CHILD ;-0&#34;.&nbsp;",
+      "publishedAt": "2026-11-25T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/saya-gray-feral-child-0",
+      "audioUrl": "./tracks/2026-11-25-843ae5fc7f62.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/saya-gray-feral-child-0/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 133,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/saya-gray-feral-child-0/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "e8c134b97dc2",
       "title": "Only Love is Time",
