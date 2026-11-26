@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-11-25T23:08:07.109Z",
+  "updatedAt": "2026-11-26T22:16:39.358Z",
   "source": "https://www.kcrw.com/shows/todays-top-tune/latest",
   "archiveAudio": true,
   "tracks": [
+    {
+      "id": "8af736d86de6",
+      "title": "The Only One",
+      "artist": "Logic1000",
+      "summary": "Logic1000 is the moniker of Australian-born, Berlin-based producer and DJ Samantha Poulter, who has a gift for turning club rhythms into pure euphoria. &ldquo;The Only One&rdquo; marks the first proper writing collab with KCRW favorite Christine and the Queens. It's a meeting of two distinctive electronic worlds, lifted by the soaring vocals of Rahim Redcar.",
+      "publishedAt": "2026-11-26T08:00:00.000Z",
+      "sourceUrl": "https://play.cdnstream1.com/s/kcrw/today-s-top-tune/logic1000-the-only-one",
+      "audioUrl": "./tracks/2026-11-26-8af736d86de6.mp3",
+      "rssAudioUrl": "https://dts.podtrac.com/redirect.mp3/pds.cdnstream1.com/p/kcrw/today-s-top-tune/logic1000-the-only-one/audio.mp3",
+      "audioSourceVersion": "direct-cdn-v1",
+      "trackNumber": 134,
+      "archivedFromUrl": "https://pds.cdnstream1.com/p/kcrw/today-s-top-tune/logic1000-the-only-one/audio.mp3?aw_0_1st.playerid=Podcaster&playLive=0",
+      "trimStartSeconds": 0
+    },
     {
       "id": "843ae5fc7f62",
       "title": "FERAL CHILD ;-0",
